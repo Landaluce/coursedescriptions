@@ -1,5 +1,5 @@
-.. header:: COMP ###: Course Full Title
-.. footer:: COMP ###: Course Full Title
+.. header:: COMP 231: Data Structures & Algorithms for Informatics
+.. footer:: COMP 231: Data Structures & Algorithms for Informatics
 
 .. index::
     Data Structures and Algorithms for Informatics
@@ -9,9 +9,9 @@
     Structures
     COMP 231
 
-#######################################################
-COMP  231: Data Structures & Algorithms for Informatics
-#######################################################
+######################################################
+COMP 231: Data Structures & Algorithms for Informatics
+######################################################
 
 ******************
 Course Information
@@ -25,8 +25,8 @@ Course Information
 
     **Prerequisites**
 
+    * :doc:`../courses/comp215` or :doc:`../courses/comp170`
     * :doc:`../courses/comp141`
-    * :doc:`../courses/comp215` is preferred or :doc:`../courses/comp170`
 
 About
 =====
