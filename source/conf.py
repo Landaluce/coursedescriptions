@@ -242,9 +242,9 @@ html_theme = "sphinx_rtd_theme"
 html_static_path = ["_static"]
 
 html_context = {
-    "css_files": [
-        "_static/theme_overrides.css",  # override wide tables in RTD theme
-    ],
+    #"css_files": [
+    #    "_static/theme_overrides.css",  # override wide tables in RTD theme
+    #],
     # "display_github": True,
     # "github_user": "LoyolaChicagoCS",
     # "github_repo": "coursedescriptions",
