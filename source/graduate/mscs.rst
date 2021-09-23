@@ -9,7 +9,7 @@ M.S. in Computer Science
 .. note::
 
   If you declared your major prior to Fall 2021, please follow the :doc:`mscs_old` page.
-  
+
 * :ref:`Curriculum<curriculum>`
 * :ref:`Major Prerequisites<prereq>`
 * :ref:`Preparation Courses<prep>`
@@ -228,6 +228,9 @@ Computer Systems Concentration (12 Credits)
 * :doc:`../courses/comp462`
 * :doc:`../courses/comp464`
 * :doc:`../courses/comp472`
+
+.. TODO:
+.. Fix me!
 
 +-------------------------+---------------------------+-------------------------+--------------------------+
 |*Default Eelctives for*  |*Artificial Intelligence*  |*Cybersecurity*          |*Computer Systems*        |

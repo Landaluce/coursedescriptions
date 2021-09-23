@@ -16,8 +16,8 @@ This site is aimed at helping *current* students find detailed information about
 
     See the main `Computer Science Department`_ web site for general program information and how to *apply* for admission to our undergraduate and graduate programs, including our professional certificate programs.
 
-Schedules and Syllabi
----------------------
+.. Schedules and Syllabi
+.. ---------------------
 
 .. note::
 
@@ -25,29 +25,66 @@ Schedules and Syllabi
 
 .. toctree::
     :maxdepth: 1
+    :caption: Schedule and Syllabi
 
     schedules/schedules
     syllabi/syllabi
     syllabi/legacy-syllabi
 
 
-Undergraduate Student Resources
--------------------------------
+.. Undergraduate Student Resources
+.. -------------------------------
 
 .. toctree::
     :maxdepth: 1
+    :caption: Undergraduate Student Resources
 
     courses/undergraduate-courses
     undergraduate/undergraduate-degree-programs
 
-Graduate Student Resources
---------------------------
+.. Graduate Student Resources
+.. --------------------------
 
 .. toctree::
     :maxdepth: 1
+    :caption: Graduate Student Resources
+
 
     courses/graduate-courses
     graduate/graduate-degree-programs
+
+.. Undergraduate Degrees
+.. ---------------------
+
+.. toctree::
+    :maxdepth: 1
+    :caption: Undergraduate Degrees
+
+    undergraduate/bsbi
+    undergraduate/bscns
+    undergraduate/bscs
+    undergraduate/bscsec
+    undergraduate/bsds
+    undergraduate/bsmcs
+    undergraduate/bspcs
+    undergraduate/bsit
+    undergraduate/bsse
+    undergraduate/bsmsprograms
+    undergraduate/minorit
+    undergraduate/minorcs
+    undergraduate/minorccf
+
+.. Graduate Degrees
+.. ----------------
+
+.. toctree::
+    :maxdepth: 1
+    :caption: Graduate Degrees
+
+    graduate/mscs
+    graduate/msit
+    graduate/msse
+    graduate/madh
 
 Other Helpful Resources for Current Students
 --------------------------------------------
