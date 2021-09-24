@@ -263,7 +263,7 @@ html_theme_options = {
     #'prev_next_buttons_location': 'bottom',
     "style_external_links": True,
     "vcs_pageview_mode": "edit",
-    # 'style_nav_header_background': '#922247',
+    'style_nav_header_background': '#922247',
     # Toc options
     #'collapse_navigation': True,
     #'sticky_navigation': True,
