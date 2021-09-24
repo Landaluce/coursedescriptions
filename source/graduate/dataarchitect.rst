@@ -1,3 +1,5 @@
+:orphan:
+
 .. header:: Data Architect
 .. footer:: Data Architect
 
@@ -41,7 +43,6 @@ Required Courses
 Recommended Courses
 -------------------
 
-* :doc:`../courses/comp400`
 * :doc:`../courses/comp420`
 * :doc:`../courses/comp453`
 * :doc:`../courses/comp477`

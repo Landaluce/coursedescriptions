@@ -132,6 +132,10 @@ rst_epilog = (
 
 .. |cjc323| replace:: `CJC 323: Criminal Procedure <http://www.luc.edu/criminaljustice/undergradcourses.shtml>`__
 
+.. |stat338| replace:: `STAT 338: Predictive Analytics <https://www.luc.edu/math/academics/courses/undergradstat/stat338predictiveanalytics/>`__
+
+.. |stat408| replace:: `STAT 408: Applied Regression Analysis <https://www.luc.edu/math/academics/courses/stat408/>`__
+
 .. |see-locus| replace:: The scheduling information you see here is an export from `LOCUS <https://locus.luc.edu>`__. LOCUS is the authoritative source of information for university course scheduling. What you see here is subject to change at any time.
 
 .. |short-locus| replace:: `LOCUS <https://locus.luc.edu>`__
@@ -242,9 +246,9 @@ html_theme = "sphinx_rtd_theme"
 html_static_path = ["_static"]
 
 html_context = {
-    #"css_files": [
+    # "css_files": [
     #    "_static/theme_overrides.css",  # override wide tables in RTD theme
-    #],
+    # ],
     # "display_github": True,
     # "github_user": "LoyolaChicagoCS",
     # "github_repo": "coursedescriptions",
@@ -259,7 +263,7 @@ html_theme_options = {
     #'prev_next_buttons_location': 'bottom',
     "style_external_links": True,
     "vcs_pageview_mode": "edit",
-    #'style_nav_header_background': 'white',
+    'style_nav_header_background': '#922247',
     # Toc options
     #'collapse_navigation': True,
     #'sticky_navigation': True,

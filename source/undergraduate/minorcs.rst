@@ -8,7 +8,7 @@ Minor in Computer Science
 Overview
 --------
 
-If you declared the minor before Fall 2020, you may use the old Minor in Computer Science curriculum (:doc:`minorcsold`).
+If you declared the minor before Fall 2020, you may use the old Minor in Computer Science curriculum (:doc:`minorcs_old`).
 
 Computers are extremely pervasive in the modern world, and important connections have been established between computer science and virtually every other field of study. Thus, a computer science minor is a valuable enhancement to majors in other fields, whether in the sciences, social sciences, arts, humanities, business, etc.
 

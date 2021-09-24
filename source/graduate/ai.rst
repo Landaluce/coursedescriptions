@@ -1,3 +1,5 @@
+:orphan:
+
 .. header:: Artificial Intelligence
 .. footer:: Artificial Intelligence
 

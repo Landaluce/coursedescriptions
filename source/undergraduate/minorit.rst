@@ -8,7 +8,7 @@ Minor in Information Technology
 Overview
 --------
 
-If you declared the minor before Fall 2020, you may use the old Minor in Information Technology curriculum (:doc:`minoritold`).
+If you declared the minor before Fall 2020, you may use the old Minor in Information Technology curriculum (:doc:`minorit_old`).
 
 This minor is designed for students seeking an understanding of important aspects of computing such as databases, networking, and/or security, especially from a managerial viewpoint. This may be a particularly valuable enhancement to a major in the School of Business as well as to majors in other fields in the College of Arts and Sciences or other divisions of the University.
 

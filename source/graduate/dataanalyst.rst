@@ -1,3 +1,5 @@
+:orphan:
+
 .. header:: Data Analyst
 .. footer:: Data Analyst
 
