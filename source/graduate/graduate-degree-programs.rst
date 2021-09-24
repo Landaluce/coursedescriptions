@@ -86,37 +86,37 @@ Expectations from COMP 170
 List of top ten concepts you should understand at the end of :doc:`../courses/comp170` in Java, C#, C++ or a similar language:
 
 1. Be able to distinguish between class and instance
-   * Class is an abstract representation or model (class aka type, abstract type, factory for objects). The class has field definitions (or attribute definitions) and operations (or methods) to implement their behaviors.
-   * Instance (aka class instance, variable) is an actual, specific, concrete thing and has specific field values (or attribute values).
-   * All instances of a class share the same operations and attribute definitions.
+    * Class is an abstract representation or model (class aka type, abstract type, factory for objects). The class has field definitions (or attribute definitions) and operations (or methods) to implement their behaviors.
+    * Instance (aka class instance, variable) is an actual, specific, concrete thing and has specific field values (or attribute values).
+    * All instances of a class share the same operations and attribute definitions.
 2. Know syntax rules and coding style
-   * Learn the basic picky rules of syntax and use them correctly. Key items: placement of “;” use of case (“ClassSchedule” vs. “classSchedule”); distinguish declarations and executable statements.
-   * Format code readably according to agreed-upon style.
+    * Learn the basic picky rules of syntax and use them correctly. Key items: placement of “;” use of case (“ClassSchedule” vs. “classSchedule”); distinguish declarations and executable statements.
+    * Format code readably according to agreed-upon style.
 3. Use conditional control structures fully and correctly
-   * Construct programs with “if….then”, and “if….then…else”. Understand the nesting of control statements and blocks ( “{“ and “}”).
-   * Briefly, “Nesting, blocks, no dangles”.
+    * Construct programs with “if….then”, and “if….then…else”. Understand the nesting of control statements and blocks ( “{“ and “}”).
+    * Briefly, “Nesting, blocks, no dangles”.
 4. Construct loops with control structures
-   * Use “while”, “do”, and “for” control structures to implement algorithms successfully.
-   * Briefly, “avoid never-ending loops, avoid off-by-one problems”
+    * Use “while”, “do”, and “for” control structures to implement algorithms successfully.
+    * Briefly, “avoid never-ending loops, avoid off-by-one problems”
 5. Use the primitive types and operators appropriately
-   * Understand the use and limitations of the primitive types.
-   * Know the most useful arithmetic, relational, and logical operators and use them in expressions, with parentheses when necessary.
+    * Understand the use and limitations of the primitive types.
+    * Know the most useful arithmetic, relational, and logical operators and use them in expressions, with parentheses when necessary.
 6. Learn how to create good Object Oriented encapsulation
-   * Achieve a deep understanding of the proper use of the access modifiers “private”, and “public”.
-   * Be able to design well-structured classes.
-   * Know when and how to use “static”.
+    * Achieve a deep understanding of the proper use of the access modifiers “private”, and “public”.
+    * Be able to design well-structured classes.
+    * Know when and how to use “static”.
 7. Construct and understand methods fully
-   * Define and use methods, including formal parameters and return values.
-   * Distinguish between formal parameters (aka parameters) and arguments in the call to a method.
-   * Comprehend scope and lifetime of objects. Understand the visibility of objects and how to implement finding the right object at the necessary time.
-   * Know how to ask a particular instance of a class to do something. Know how to construct associations between classes.
-   * Understand what is happening is a nested stack of method calls.
+    * Define and use methods, including formal parameters and return values.
+    * Distinguish between formal parameters (aka parameters) and arguments in  the call to a method.
+    * Comprehend scope and lifetime of objects. Understand the visibility of objects and how to implement finding the right object at the necessary time.
+    * Know how to ask a particular instance of a class to do something. Know how to construct associations between classes.
+    * Understand what is happening is a nested stack of method calls.
 8. Be knowledgeable about important library container classes and arrays
-   * Be able to declare and use container objects like for lists and arrays. Understand how to find things in containers and arrays. Use index variables effectively.
+    * Be able to declare and use container objects like for lists and arrays. Understand how to find things in containers and arrays. Use index variables effectively.
 9. Perform simple input/output processing
-   * Learn how to do basic input and output statements with an interactive user and with files. Be able to work with Strings.
+    * Learn how to do basic input and output statements with an interactive user and with files. Be able to work with Strings.
 10. Understand Object Oriented Interfaces
-   * Know how to define and use simple interfaces.
+    * Know how to define and use simple interfaces.
 
 Expectations from COMP 271 and COMP 272
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^

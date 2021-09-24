@@ -1,3 +1,5 @@
+:orphan:
+
 .. header:: Enterprise Architect
 .. footer:: Enterprise Architect
 

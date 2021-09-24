@@ -1,3 +1,5 @@
+:orphan:
+
 .. index::
     Undergraduate Degree
     B.S. in Software Engineering (Pre Fall 2020)

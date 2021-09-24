@@ -1,3 +1,5 @@
+:orphan:
+
 .. header:: Database Administration
 .. footer:: Database Administration
 

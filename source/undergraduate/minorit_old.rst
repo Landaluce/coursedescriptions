@@ -1,3 +1,5 @@
+:orphan:
+
 .. index::
     Undergraduate Degree
     Minor in Information Technology (Old)

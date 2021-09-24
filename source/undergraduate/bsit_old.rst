@@ -1,3 +1,5 @@
+:orphan:
+
 .. index::
     Undergraduate Degree
     B.S. in Information Technology (Old)
