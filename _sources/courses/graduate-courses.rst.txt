@@ -12,7 +12,6 @@ Graduate Courses
 .. toctree::
    :maxdepth: 1
 
-   comp400
    comp400a
    comp400b
    comp400c

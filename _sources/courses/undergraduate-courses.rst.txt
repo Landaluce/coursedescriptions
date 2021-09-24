@@ -1,5 +1,4 @@
 .. index::
-
     Undergraduate Courses
 
 #####################
@@ -89,6 +88,7 @@ Undergraduate Courses
    comp341
    comp342
    comp343
+   comp344
    comp345
    comp346
    comp347

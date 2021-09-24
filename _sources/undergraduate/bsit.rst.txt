@@ -17,7 +17,7 @@ The Bureau of Labor Statistics indicates high median pay and estimates a 15% inc
 Curriculum
 -----------
 
-If you decided prior to Fall 2020 you may use the old Information Technology B.S. Curriculum located :doc:`bsitold`.
+If you decided prior to Fall 2020 you may use the old Information Technology B.S. Curriculum located :doc:`bsit_old`.
 
 Major Requirements (49 Credit Hours)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

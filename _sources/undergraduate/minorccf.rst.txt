@@ -8,7 +8,7 @@ Minor in Computer Crime and Forensics
 Overview
 --------
 
-If you declared the minor before Fall 2020, you may use the old Minor in Computer Crime and Forensics curriculum (:doc:`minorccfold`).
+If you declared the minor before Fall 2020, you may use the old Minor in Computer Crime and Forensics curriculum (:doc:`minorccf_old`).
 
 Crimes in general are dealt with using preventive and detective techniques. Computer crime is no different. With the dramatic increase in the use of computers, networks, and the Internet, crimes committed via computers and networks have also risen rather sharply. Computer crime prevention falls in areas known as computer and network security. Computer crime detection is generally known as computer forensics. Computer forensic investigations deal with white-collar crime, telecommunications fraud, network intrusion detection, and criminal procedures. A computer forensic expert can help solve cases in money laundering, intellectual property, child pornography, embezzlement, e-mail harassment, murder, and terrorism.
 

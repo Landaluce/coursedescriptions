@@ -19,7 +19,7 @@ This Degree was previously known as Software Development.
 
 If you decided before Fall 2013 you may use the curriculum for the old B.S. Software Development Degree, which can be found `here <http://www.luc.edu/cs/academics/undergraduateprograms/bsse/oldcurriculum/>`_.
 
-If you decided before Fall 2020 you may use the curriculum for the old B.S. Software Development Degree, which can be found :doc:`bsseold`.
+If you decided before Fall 2020 you may use the curriculum for the old B.S. Software Development Degree, which can be found :doc:`bsse_old`.
 
 Major Requirements (61 Credit Hours)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
