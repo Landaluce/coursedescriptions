@@ -81,10 +81,10 @@ This site is aimed at helping *current* students find detailed information about
     :maxdepth: 1
     :caption: Graduate Degrees
 
+    graduate/madh
     graduate/mscs
     graduate/msit
     graduate/msse
-    graduate/madh
 
 Other Helpful Resources for Current Students
 --------------------------------------------
