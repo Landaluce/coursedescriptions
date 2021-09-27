@@ -10,13 +10,6 @@ M.S. in Computer Science
 
   If you declared your major prior to Fall 2021, please follow the :doc:`mscs_old` page.
 
-* :ref:`Curriculum<curriculum>`
-* :ref:`Major Prerequisites<prereq>`
-* :ref:`Preparation Courses<prep>`
-* :ref:`Major Requirements<req>`
-* :ref:`Major Electives<electives>`
-* :ref:`Thesis Option<thesis>`
-
 ********
 Overview
 ********

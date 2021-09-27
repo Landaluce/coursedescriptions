@@ -49,7 +49,6 @@ This site is aimed at helping *current* students find detailed information about
     :maxdepth: 1
     :caption: Graduate Student Resources
 
-
     courses/graduate-courses
     graduate/graduate-degree-programs
 
@@ -57,7 +56,7 @@ This site is aimed at helping *current* students find detailed information about
 .. ---------------------
 
 .. toctree::
-    :maxdepth: 1
+    :maxdepth: 2
     :caption: Undergraduate Degrees
 
     undergraduate/bsbi
@@ -78,13 +77,13 @@ This site is aimed at helping *current* students find detailed information about
 .. ----------------
 
 .. toctree::
-    :maxdepth: 1
+    :maxdepth: 2
     :caption: Graduate Degrees
 
+    graduate/madh
     graduate/mscs
     graduate/msit
     graduate/msse
-    graduate/madh
 
 Other Helpful Resources for Current Students
 --------------------------------------------

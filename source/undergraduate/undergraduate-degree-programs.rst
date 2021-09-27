@@ -18,20 +18,16 @@ The following graduate programs are offered by the Loyola CS Department. Each pr
 
     The :doc:`B.S. in Communication Networks and Security<bscns>` program has been replaced with the :doc:`B.S. in Cybersecurity<bscsec>`.
 
-
-.. toctree::
-   :maxdepth: 1
-
-   bsbi
-   bscns
-   bscs
-   bscsec
-   bsds
-   bsmcs
-   bspcs
-   bsit
-   bsse
-   bsmsprograms
-   minorit
-   minorcs
-   minorccf
+* :doc:`bsbi`
+* :doc:`bscns`
+* :doc:`bscs`
+* :doc:`bscsec`
+* :doc:`bsds`
+* :doc:`bsmcs`
+* :doc:`bspcs`
+* :doc:`bsit`
+* :doc:`bsse`
+* :doc:`bsmsprograms`
+* :doc:`minorit`
+* :doc:`minorcs`
+* :doc:`minorccf`
