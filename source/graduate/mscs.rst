@@ -23,7 +23,15 @@ The M.S. in Computer Science offers the following concentrations of specializati
 * :ref:`Cybersecurity<cybersecurity>`
 * :ref:`Computer Systems<computerSystems>`
 
-.. _curriculum:
+****************
+STEM Designation
+****************
+
+With a national shortage of professionals trained in STEM-related fields, employers are actively pursuing STEM degree holders. Distinguish yourself in technology with a STEM-designated degree.
+
+The MS in Computer Science has been granted a STEM designation from the U.S. Department of Homeland Security. The program achieved STEM designation because of its emphasis on teaching students how to solve computer science problems with a suite of quantitative and technological tools.
+
+Under this STEM classification, international students can extend their training in the U.S. by working in their field of study. Students can qualify for a 24-month OPT (Optional Practical Training) Extension, bringing the total OPT time granted to 36 months.
 
 **********
 Curriculum
@@ -53,14 +61,10 @@ Overall, to achieve depth and breadth, Computer Science students must complete t
 * Four (4) electives restricted to a concentration
 * Four (4) general electives
 
-.. _prereq:
-
 Major Prerequisites
 ===================
 
 A four-year undergraduate degree in any field. Computer science, software engineering, computer engineering, or related background recommended.
-
-.. _prep:
 
 Preparation Courses
 -------------------
@@ -90,8 +94,6 @@ A student may place out of an introductory course under any of the following con
 
 If a student has had a preparatory course waived, departmental assistance will usually be necessary to allow the student to register for any other course having that preparatory course as a prerequisite.
 
-.. _req:
-
 Major Requirements
 ==================
 
@@ -105,8 +107,6 @@ The following two (2) courses are required by the program:
     :doc:`../courses/comp460` has the prereq :doc:`../courses/comp363`.
 
 Either class above can be substituted with another graduate course under the discretion of GPD if students had their equivalent in their undergraduate program.
-
-.. _electives:
 
 Major Electives
 ===============
@@ -129,8 +129,6 @@ There are numerous options for independent study, including a programming projec
 
   Students may take up to a maximum of 6 credit hours of :doc:`../courses/comp490` and/or :doc:`../courses/comp499`.
 
-.. _default:
-
 Default Concentration Electives (12 Credits)
 --------------------------------------------
 
@@ -151,8 +149,6 @@ Default Concentration Electives (12 Credits)
 * :doc:`../courses/comp474`
 * :doc:`../courses/comp473`
 * :doc:`../courses/comp473`
-
-.. _ai:
 
 Artificial Intelligence Concentration (12 Credits)
 --------------------------------------------------
@@ -179,8 +175,6 @@ Two (2) of the following courses from the three (3) choices below and the three 
 * :doc:`../courses/comp458`
 * :doc:`../courses/comp488`
 
-.. _cybersecurity:
-
 Cybersecurity Concentration (12 Credits)
 ----------------------------------------
 
@@ -201,8 +195,6 @@ Cybersecurity Concentration (12 Credits)
 * :doc:`../courses/comp449`
 * :doc:`../courses/comp452`
 * :doc:`../courses/comp488`
-
-.. _computerSystems:
 
 Computer Systems Concentration (12 Credits)
 -------------------------------------------
@@ -265,8 +257,6 @@ Computer Systems Concentration (12 Credits)
 +-------------------------+---------------------------+-------------------------+--------------------------+
 |                              Four 400-level COMP three-credit electives                                  |
 +----------------------------------------------------------------------------------------------------------+
-
-.. _thesis:
 
 *************
 Thesis Option

@@ -16,6 +16,16 @@ Overview
 
 The M.S. in Software Engineering caters to students interested in software engineering and also other contemporary topics of long-term value to the industry. Most early careers in the industry are based on either software development or managerial aspects of software development. This degree places more weight on software development. For those seeking a greater focus on managerial aspects, we offer the :doc:`msit`.
 
+****************
+STEM Designation
+****************
+
+With a national shortage of professionals trained in STEM-related fields, employers are actively pursuing STEM degree holders. Distinguish yourself in technology with a STEM-designated degree.
+
+The MS in Computer Science has been granted a STEM designation from the U.S. Department of Homeland Security. The program achieved STEM designation because of its emphasis on teaching students how to solve computer science problems with a suite of quantitative and technological tools.
+
+Under this STEM classification, international students can extend their training in the U.S. by working in their field of study. Students can qualify for a 24-month OPT (Optional Practical Training) Extension, bringing the total OPT time granted to 36 months.
+
 **********
 Curriculum
 **********
