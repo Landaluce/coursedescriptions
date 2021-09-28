@@ -170,9 +170,6 @@ One (1) of the following courses from the three choices below:
 * :doc:`../courses/comp488`
 
 Two (2) of the following courses from the three (3) choices below and the three (3) choices above must be taken:
-
-* :doc:`../courses/comp406`
-* :doc:`../courses/comp458`
 * :doc:`../courses/comp488`
 
 Cybersecurity Concentration (12 Credits)
