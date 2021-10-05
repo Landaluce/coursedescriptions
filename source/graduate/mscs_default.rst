@@ -62,6 +62,5 @@ Default Concentration Electives (12 Credits)
 * :doc:`../courses/comp453`
 * :doc:`../courses/comp464`
 * :doc:`../courses/comp471`
+* :doc:`../courses/comp473`
 * :doc:`../courses/comp474`
-* :doc:`../courses/comp473`
-* :doc:`../courses/comp473`
