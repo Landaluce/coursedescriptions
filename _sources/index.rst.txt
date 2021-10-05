@@ -37,29 +37,9 @@ This site is aimed at helping *current* students find detailed information about
 
 .. toctree::
     :maxdepth: 1
-    :caption: Undergraduate Student Resources
+    :caption: Undergraduate Resources
 
     courses/undergraduate-courses
-    undergraduate/undergraduate-degree-programs
-
-.. Graduate Student Resources
-.. --------------------------
-
-.. toctree::
-    :maxdepth: 1
-    :caption: Graduate Student Resources
-
-
-    courses/graduate-courses
-    graduate/graduate-degree-programs
-
-.. Undergraduate Degrees
-.. ---------------------
-
-.. toctree::
-    :maxdepth: 1
-    :caption: Undergraduate Degrees
-
     undergraduate/bsbi
     undergraduate/bscns
     undergraduate/bscs
@@ -74,17 +54,20 @@ This site is aimed at helping *current* students find detailed information about
     undergraduate/minorcs
     undergraduate/minorccf
 
-.. Graduate Degrees
-.. ----------------
+.. Graduate Student Resources
+.. --------------------------
 
 .. toctree::
     :maxdepth: 1
-    :caption: Graduate Degrees
+    :caption: Graduate Resources
 
+
+    courses/graduate-courses
+    graduate/graduate-degree-programs
+    graduate/madh
     graduate/mscs
     graduate/msit
     graduate/msse
-    graduate/madh
 
 Other Helpful Resources for Current Students
 --------------------------------------------
