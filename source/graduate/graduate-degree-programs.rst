@@ -167,7 +167,7 @@ Though rarely an issue, there is a five-year overall time limit, and this period
 Pursuing Multiple M.S. Degrees
 ==============================
 
-We are often asked about whether it is possible to complete more than one M.S. degree (e.g. an :doc:`mscs` and an :doc:`msse`). The answer is **no** *unless* you complete 54 hours of study. 30 hours of courses for each degree, except for 6 credits transferred into the second degree.
+We are often asked about whether it is possible to complete more than one M.S. degree (e.g. an :doc:`mscs` and an :doc:`msse`). The answer is **no** unless you complete 60 hours of study. 30 hours of courses for each degree.
 
 It is impractical and expensive, and we don't think it serves students well. Our goal is to prepare you for a serious career (professional and/or academic) after completing *one* graduate degree.
 
