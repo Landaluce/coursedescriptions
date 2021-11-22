@@ -133,6 +133,8 @@ The Computer Science department may declare that other courses (e.g. new courses
 General Electives
 =================
 
+Electives can be any COMP 400 level class, except the preparation courses (COMP 400A, COMP 400B, COMP 400C, COMP 400D, COMP 400E).
+
 MSSE students must take fifteen (15) credits of other electives.
 
 Electives can be any COMP 400 level class.
