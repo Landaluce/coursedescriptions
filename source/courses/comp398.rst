@@ -26,7 +26,7 @@ Course Information
 
     **Note**
 
-    * This course can be taken up to a maximum of 6 times **or** until 6 credits have been accumulated.
+    * Typically at most 6 total credits for this course will be approved to apply to the requirements of a student's major.
 
 
 About

@@ -28,7 +28,7 @@ Course Information
 
     **Note**
 
-    * There is typically a limit of 6 total credits that a student can get from this course.
+    * Typically at most 6 total credits for this course will be approved to apply to the requirements of a student's major.
 
 About
 =====
