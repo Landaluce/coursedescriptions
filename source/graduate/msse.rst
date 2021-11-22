@@ -8,7 +8,7 @@ M.S. in Software Engineering
 
 .. note::
 
-  If you declared your major before to Fall 2021, please follow the :doc:`msse_old` page.
+  If you declared your major prior to Fall 2021, please follow the :doc:`msse_old` page.
 
 ********
 Overview
