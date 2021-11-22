@@ -115,17 +115,6 @@ Major Requirements (3 credits)
 
   The class above can be substituted with another graduate course under the discretion of GPD if students had their equivalent in their undergraduate program.
 
-General Electives (18 Credits)
-==============================
-
-Six additional 400-level COMP three-credit electives are required. Students may not substitute any of the introductory or foundation courses listed above as electives (except as stated above). Students may count 400-level courses from other departments as electives with graduate program director approval.
-
-There are numerous options for independent study, including a programming project, research, or a service-oriented project.
-
-.. note::
-
-  Students may take up to a maximum of 6 credit hours of :doc:`../courses/comp490` and/or :doc:`../courses/comp499`.
-
 ******************
 Tracks (9 Credits)
 ******************
@@ -170,3 +159,14 @@ Enterprise Networking (EN) Track
 * :doc:`../courses/comp448`
 * :doc:`../courses/comp449`
 * :doc:`../courses/comp451`
+
+General Electives (18 Credits)
+==============================
+
+Six additional 400-level COMP three-credit electives are required. Students may not substitute any of the introductory or foundation courses listed above as electives (except as stated above). Students may count 400-level courses from other departments as electives with graduate program director approval.
+
+There are numerous options for independent study, including a programming project, research, or a service-oriented project.
+
+.. note::
+
+  Students may take up to a maximum of 6 credit hours of :doc:`../courses/comp490` and/or :doc:`../courses/comp499`.
