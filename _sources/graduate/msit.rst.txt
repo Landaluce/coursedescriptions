@@ -32,6 +32,16 @@ Entirely Online Option
 
 The program can now be completed entirely online with some decrease in available electives. Networking and security tracks may be completed online and full-time. The management tracks can be completed online at least part-time over two years. Students taking mostly regular face-to-face courses are also welcomed into online courses when they find that convenient, but students signed up explicitly for the entirely online option get the advantage of being able to be registered before other students who might happen to choose to take some of their courses online. Student in the entire online program should contact the GPD with course choices **three days** before the usual start of registration.
 
+****************
+STEM Designation
+****************
+
+With a national shortage of professionals trained in STEM-related fields, employers are actively pursuing STEM degree holders. Distinguish yourself in technology with a STEM-designated degree.
+
+The MS in Computer Science has been granted a STEM designation from the U.S. Department of Homeland Security. The program achieved STEM designation because of its emphasis on teaching students how to solve computer science problems with a suite of quantitative and technological tools.
+
+Under this STEM classification, international students can extend their training in the U.S. by working in their field of study. Students can qualify for a 24-month OPT (Optional Practical Training) Extension, bringing the total OPT time granted to 36 months.
+
 **********
 Curriculum
 **********
@@ -105,17 +115,6 @@ Major Requirements (3 credits)
 
   The class above can be substituted with another graduate course under the discretion of GPD if students had their equivalent in their undergraduate program.
 
-General Electives (18 Credits)
-==============================
-
-Six additional 400-level COMP three-credit electives are required. Students may not substitute any of the introductory or foundation courses listed above as electives (except as stated above). Students may count 400-level courses from other departments as electives with graduate program director approval.
-
-There are numerous options for independent study, including a programming project, research, or a service-oriented project.
-
-.. note::
-
-  Students may take up to a maximum of 6 credit hours of :doc:`../courses/comp490` and/or :doc:`../courses/comp499`.
-
 ******************
 Tracks (9 Credits)
 ******************
@@ -127,8 +126,6 @@ Some courses (eg 317/417 and 343/443) are offered as both undergraduate and grad
 .. important::
   Three (3) courses from any one of the following Tracks must before completing your major.
 
-.. _dm:
-
 Data Management (DM) Track
 ==========================
 
@@ -138,8 +135,6 @@ Data Management (DM) Track
 * :doc:`../courses/comp453`
 * :doc:`../courses/comp488` Data Visualization Topic
 
-.. _tm:
-
 Technology Management (TM) Track
 ================================
 
@@ -147,8 +142,6 @@ Technology Management (TM) Track
 * :doc:`../courses/comp403`
 * :doc:`../courses/comp420`
 * :doc:`../courses/comp477`
-
-.. _is:
 
 IT Security (IS) Track
 ======================
@@ -159,8 +152,6 @@ IT Security (IS) Track
 * :doc:`../courses/comp449`
 * :doc:`../courses/comp452`
 
-.. _en:
-
 Enterprise Networking (EN) Track
 ================================
 
@@ -168,3 +159,14 @@ Enterprise Networking (EN) Track
 * :doc:`../courses/comp448`
 * :doc:`../courses/comp449`
 * :doc:`../courses/comp451`
+
+General Electives (18 Credits)
+==============================
+
+Six additional 400-level COMP three-credit electives are required. Students may not substitute any of the introductory or foundation courses listed above as electives (except as stated above). Students may count 400-level courses from other departments as electives with graduate program director approval.
+
+There are numerous options for independent study, including a programming project, research, or a service-oriented project.
+
+.. note::
+
+  Students may take up to a maximum of 6 credit hours of :doc:`../courses/comp490` and/or :doc:`../courses/comp499`.
