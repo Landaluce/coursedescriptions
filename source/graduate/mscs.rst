@@ -55,8 +55,6 @@ Overall, to achieve depth and breadth, Computer Science students must complete t
 * Four (4) electives restricted to a concentration
 * Four (4) general electives
 
-.. _prereq:
-
 Major Prerequisites
 ===================
 

@@ -162,6 +162,7 @@ extensions = [
     "sphinx.ext.todo",
     "sphinx.ext.mathjax",
     "sphinx.ext.autosectionlabel",
+    "sphinx.ext.autodoc",
 ]
 
 autosectionlabel_prefix_document = True

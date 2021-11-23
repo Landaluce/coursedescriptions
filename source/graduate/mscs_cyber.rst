@@ -61,3 +61,17 @@ Cybersecurity Concentration (12 Credits)
 * :doc:`../courses/comp449`
 * :doc:`../courses/comp452`
 * :doc:`../courses/comp488`
+
+General Electives (12 credit hours)
+-----------------------------------
+
+MSCS students must take 12 credits of other electives.
+
+Electives can be any COMP 400 level class, except the preparation courses (COMP 400A, COMP 400B, COMP 400C, COMP 400D, COMP 400E)
+
+The elective course options are common for all programs, differing only in the total number of credits required.
+
+There are numerous options for independent study, including a programming project, research, or a service-oriented project.
+
+.. important::
+    Students may take up to a maximum of 6 credit hours of COMP 490: Independent Project and/or COMP 499: Internship.
