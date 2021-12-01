@@ -1,7 +1,7 @@
 .. index::
     Graduate Track
     M.S. in Computer Science
-    Default concentration
+    General Electives
 
 ###############################################
 M.S. in Computer Science: Default Concentration
@@ -45,7 +45,7 @@ There are numerous options for independent study, including a programming projec
   Students may take up to a maximum of 6 credit hours of :doc:`../courses/comp490` and/or :doc:`../courses/comp499`.
 
 
-Default Concentration Electives (12 Credits)
+General Electives (12 Credits)
 ============================================
 
 .. note::
