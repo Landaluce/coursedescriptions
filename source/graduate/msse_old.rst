@@ -64,11 +64,7 @@ Group 1
 
 .. note::
 
-    Special prereq, :doc:`../courses/comp363`.
-
-    * :doc:`../courses/comp471`
-    * :doc:`../courses/comp473`
-    * :doc:`../courses/comp474`
+    Special prereq, :doc:`../courses/comp460`.
 
 Most of these Group 1 courses require :doc:`../courses/comp413` as a prerequisite. Exceptions are Comp 424, 474, and 460.
 
