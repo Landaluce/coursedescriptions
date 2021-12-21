@@ -34,6 +34,9 @@ About
 
 This course introduces more advanced data structures such as priority queues, heaps, balanced trees,  B trees and graphs, as well as their implementations. Performance and analysis of algorithms are covered along with applications in sorting and searching.
 
+.. warning::
+    This class cannot be used towards the degree requirements for the MS programs. This class is intended as a preparatory course for graduate students without prior programming experience
+
 Description
 ===========
 
