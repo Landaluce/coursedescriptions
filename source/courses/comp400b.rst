@@ -30,6 +30,8 @@ About
 
 This course introduces key data structures such as lists, sets, and maps, as well as their implementations. Performance and analysis of algorithms are covered along with applications in sorting and searching.
 
+.. warning::
+    This class cannot be used towards the degree requirements for the MS programs. This class is intended as a preparatory course for graduate students without prior programming experience
 
 Description
 ===========
