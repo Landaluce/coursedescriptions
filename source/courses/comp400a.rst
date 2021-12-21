@@ -31,10 +31,10 @@ Course Information
 About
 =====
 
+This programming-intensive course provides a foundation for computer programming, introducing basic concepts of object-oriented programming in a language such as Java.
+
 .. warning::
     This class cannot be used towards the degree requirements for the MS programs. This class is intended as a preparatory course for graduate students without prior programming experience
-
-This programming-intensive course provides a foundation for computer programming, introducing basic concepts of object-oriented programming in a language such as Java.
 
 Description
 ===========

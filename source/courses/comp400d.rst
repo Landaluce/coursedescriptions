@@ -30,10 +30,10 @@ Course Information
 About
 =====
 
+This course introduces students to the Unix shell environment and essential tools for succeeding in computer science.
+
 .. warning::
     This class cannot be used towards the degree requirements for the MS programs. This class is intended as a preparatory course for graduate students without prior programming experience
-
-This course introduces students to the Unix shell environment and essential tools for succeeding in computer science.
 
 Description
 ===========
