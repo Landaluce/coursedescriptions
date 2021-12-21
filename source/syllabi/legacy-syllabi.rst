@@ -8,10 +8,10 @@ Past Syllabi
 .. toctree::
    :maxdepth: 1
 
-   summer_2020_syllabi
-   spring_2020_syllabi
-   fall_2019_syllabi
    spring_2019_syllabi
+   fall_2019_syllabi
+   spring_2020_syllabi
+   summer_2020_syllabi
    fall_2020_syllabi
 
 
