@@ -24,6 +24,9 @@ COMP 400E: Discrete Structures
 About
 =====
 
+.. warning::
+    This class cannot be used towards the degree requirements for the MS programs. This class is intended as a preparatory course for graduate students without prior programming experience
+
 This course covers the mathematical foundations of computer science, including such topics as complexity of algorithms, modular arithmetic, induction and proof techniques, graph theory, combinatorics, probability, Boolean algebra, logic circuits, and automata.
 
 Description
