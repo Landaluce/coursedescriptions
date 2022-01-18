@@ -97,4 +97,4 @@ General Notes
 Suggested Ordering of Courses
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-:download:`See this ITEC-BS Sample Schedule <../schedules/ITEC-BS-Sample-Schedule-2021.pdf>`.
+:download:`See this ITEC-BS Sample Schedule <../schedules/ITEC-BS-Sample-Schedule.pdf>`.

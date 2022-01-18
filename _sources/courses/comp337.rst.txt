@@ -8,7 +8,7 @@
     COMP 337
 
 ################################
-COMP 337: Conccurent Programming
+COMP 337: Concurrent Programming
 ################################
 
 ******************
