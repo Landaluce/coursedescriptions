@@ -18,15 +18,6 @@ If you spot any issues with the site, feel free to open an issue at https://gith
 
 If you want to develop this site further follow the steps below:
 
-#### Developing with VS Code Dev Container (Reccomended)
-
-1. Install `Docker`
-2. Install the [Remote - Containers](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers) VS Code extension
-3. Open the project in the provided `dev container`
-4. Run `pip install -r requirements.txt`
-
-#### Developing without VS Code Dev Container
-
 1. Install `Python 3.9+`
 2. Run `pip install -r requirements.txt`
 
