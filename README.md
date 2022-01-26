@@ -1,30 +1,46 @@
-# LUC CS Academics Website
+# Loyola University Chicago CS Dept. Course Descriptions
 
-> The official Loyola University Chicago Computer Science academic offerings website
+> [https://academics.cs.luc.edu](https://academics.cs.luc.edu)
 
 ![GH Pages Deployment](https://github.com/LoyolaChicagoCS/coursedescriptions/actions/workflows/main.yml/badge.svg)
 
-## Where is This Site Located?
+## About
 
-This site can be found at https://academics.cs.luc.edu
+This repository contains the source code for the Loyola University Chicago (LUC)
+CS Dept. minor, major, and course listings.
 
-## How to Contribute
+These listings contain information about the program or course, requirements,
+and where to find more information.
 
-### Filing Issues
+## How To Build The Site
 
-If you spot any issues with the site, feel free to open an issue at https://github.com/LoyolaChicagoCS/coursedescriptions/issues
+The site is built and deployed automatially using a GitHub Action with
+Python and Sphinx.
 
-### Developing Using Sphinx
+### How To Build the Site Locally
 
-If you want to develop this site further follow the steps below:
+#### Requirements
 
-1. Install `Python 3.9+`
-2. Run `pip install -r requirements.txt`
+* git
+* Python 3.7+ (Python 3.9.6+ preferred)
 
-## Deploying Site to GitHub Pages
+### Build steps
 
-If you wish to deploy the site to GitHub Pages, a GitHub Action workflow has already been made to simplify this process.
+```
+git clone https://github.com/LoyolaChicagoCS/coursedescriptions
+cd coursedescriptions
+python3 -m venv env
+source env/bin/activate
+pip install --upgrade pip
+pip install -r requirements.txt
+make html
+```
 
-1. Enable `Actions` on your fork of this project
-2. Enable `GitHub Pages` on your fork of this project
-3. If you use a different production branch name other than `main`, change the [workflow](.github/workflow/main.yml) to point to that branch
+After building, the site is located in `build/html`
+
+### Contact
+
+Current developers working on the project:
+
+* Nicholas Synovic @ [nsynovic@luc.edu](mailto:nsynovic@luc.edu)
+* Alvaaro de Landaluce @ [adelandaluce@luc.edu](mailto:adelandaluce@luc.edu)
