@@ -69,3 +69,4 @@ target/
 .idea/
 
 source/_build
+.DS_Store
