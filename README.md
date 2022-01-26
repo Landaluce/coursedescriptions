@@ -38,7 +38,15 @@ make html
 
 After building, the site is located in `build/html`
 
-### Contact
+## Documentation
+
+The following sites contain documentation for Sphinx, reStructuredText, and GitHub Flavored Markdown.
+
+* [Sphinx](https://www.sphinx-doc.org/en/master/usage/restructuredtext/basics.html)
+* [reStructuredText](https://docutils.sourceforge.io/rst.html)
+* [GitHub Flavored Markdown](https://github.github.com/gfm/)
+
+## Contact
 
 Current developers working on the project:
 
