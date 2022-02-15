@@ -53,7 +53,7 @@ Current Loyola students who have met the above academic prerequisites are encour
 
 -   `The Graduate Application Form <https://gpem.luc.edu/apply/>`_; applicants are to select the BS/MS option.  Be careful of the misleading entry named "starting semester": The *starting semester for the program should be the first semester when the* *student will be in pure*  **graduate** *status* (after expected completion of the BS).  This is *not* generally the semester coming right after the student has filled out the application.  This is *after* all double-counted courses are completed.
 -   A one-page personal statement of purpose.
--   Two letters of recommendation, at least one coming from faculty in the Department of Computer Science at Loyola University.
+-   One letter of recommendation coming from faculty in the Department of Computer Science at Loyola University.
 
 .. note::
     The GRE is not required for applicants to the BS/MS program, even if they are applying for an assistantship. There is no application fee for applicants who apply on-line. At the time of consideration for admission, the student’s most recent Loyola transcript will be examined. If the applicant has transfer credits from another college or university, the student may be required to submit those as well.
