@@ -1,3 +1,5 @@
+:orphan:
+
 .. header:: Video Game Developer
 .. footer:: Video Game Developer
 

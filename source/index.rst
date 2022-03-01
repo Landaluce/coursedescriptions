@@ -62,12 +62,13 @@ This site is aimed at helping *current* students find detailed information about
     :caption: Graduate Resources
 
 
-    courses/graduate-courses
     graduate/graduate-degree-programs
-    graduate/madh
     graduate/mscs
-    graduate/msit
     graduate/msse
+    graduate/msit
+    graduate/madh
+    courses/graduate-courses
+    Graduate Handbook <https://graduatehandbook.cs.luc.edu>
 
 Other Helpful Resources for Current Students
 --------------------------------------------
