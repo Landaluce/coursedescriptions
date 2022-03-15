@@ -90,6 +90,79 @@ A student may place out of an introductory course under any of the following con
 
 If a student has had a preparatory course waived, departmental assistance will usually be necessary to allow the student to register for any other course having that preparatory course as a prerequisite.
 
-.. csv-table::
-    :file: mscs_electives.csv
-    :header-rows: 1
+.. list-table:: Title
+   :header-rows: 1
+
+   * - No Concentration
+     - Artificial Intelligence Concentration
+     - Cybersecurity Concentration
+     - Computer Systems Concentration
+
+   * - COMP 417 (required)
+     - COMP 417 (required)
+     - COMP 417 (required)
+     - COMP 417 (required)
+   * - COMP 460 (required)
+     - COMP 460 (required)
+     - COMP 460 (required)
+     - COMP 460 (required)
+   * - **Choose four out of the following (3* credit hours each)**
+     - **Choose four out of the following (3* credit hours each)**
+     - **Choose four out of the following (3* credit hours each)**
+     - **Choose four out of the following (3* credit hours each)**
+   * - COMP 413 (required)
+     - COMP 479 (required)
+     - COMP 401 (required)
+     - COMP 410 (required)
+   * - COMP 410
+     - **One of the following courses**
+     - COMP 431
+     - COMP 405
+   * - COMP 433
+     - COMP 429
+     - COMP 445
+     - COMP 443
+   * - COMP 436
+     - COMP 487
+     - COMP 447
+     - COMP 451
+   * - COMP 439
+     - COMP 448
+     - COMP 448
+     - COMP 453
+   * - COMP 442
+     - **Two of the following courses**
+     - COMP 449
+     - COMP 462
+   * - COMP 443
+     - COMP 406
+     - COMP 452
+     - COMP 464
+   * - COMP 453
+     - COMP 458
+     - COMP 488 (Cybersecurity related topics)
+     - COMP 472
+   * - COMP 464
+     - COMP 488 (Artificial Intelligence related topics)
+     - **Students may petition the GPD to substitute COMP 460 with a course from the list above**
+     - **Students may petition the GPD to substitute COMP 460 with a course from the list above**
+   * - COMP 471
+     - COMP 429
+     -
+     -
+   * - COMP 473
+     - COMP 487
+     -
+     -
+   * - COMP 474
+     - COMP 448
+     -
+     -
+   * -
+     -
+     -
+     -
+   * - **Four 400-level COMP three-credit electives**
+     - **Four 400-level COMP three-credit electives**
+     - **Four 400-level COMP three-credit electives**
+     - **Four 400-level COMP three-credit electives**

@@ -59,8 +59,9 @@ Computer Systems Concentration (12 Credits)
 * :doc:`../courses/comp464`
 * :doc:`../courses/comp472`
 
+***********************************
 General Electives (12 credit hours)
------------------------------------
+***********************************
 
 MSCS students must take 12 credits of other electives.
 

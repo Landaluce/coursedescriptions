@@ -21,31 +21,35 @@ The following graduate programs are offered by the Loyola CS Department. Each pr
 Program Prerequisites
 *********************
 
-.. important::
-
-  If you were a Loyola Undergraduate who declared a CS, IT, SE, etc. major prior to Fall 2019, you do not have to worry about taking :doc:`../courses/comp272` as the content was covered in :doc:`../courses/comp271`.
-
-All students need the equivalent knowledge of :doc:`../courses/comp170`, :doc:`../courses/comp271`, and :doc:`../courses/comp272`. This knowledge is a prerequisite to essentially all the graduate courses in the Computer Science Department with the exception of :doc:`../courses/comp417`.
+All students need the equivalent knowledge of :doc:`../courses/comp400a` and :doc:`../courses/comp400b`. This knowledge is a prerequisite to essentially all the graduate courses in the Computer Science Department with the exception of :doc:`../courses/comp417`.
 
 M.S in Computer Science
 =======================
 
-Students in the Computer Science Graduate Program need the strongest preparation. Most will have an undergraduate degree or at least the first two years of foundational undergraduate courses.  This would include the addition of equivalents of our :doc:`../courses/comp163` and :doc:`../courses/comp264` and :doc:`../courses/comp363` to the two courses already listed above. In particular advanced undergraduate algorithm background is required before taking the required spring grad course, :doc:`../courses/comp460`.
+.. warning::
+
+    The Computer Science has more prerequisites than other programs.
+
+Students in the Computer Science Graduate Program need the strongest preparation. Most will have an undergraduate degree or at least the first two years of foundational undergraduate courses.  This would include the addition of equivalents of our :doc:`../courses/comp400c`, :doc:`../courses/comp400e`, and :doc:`../courses/comp400d` to the two courses already listed above. In particular advanced undergraduate algorithm background is required before taking the required spring grad course, :doc:`../courses/comp460`.
+
+M.S in Software Engineering
+===========================
+
+Students in the Software Engineering Graduate Program need to add equivalents of our :doc:`../courses/comp400c` and :doc:`../courses/comp400d` to the two courses already listed above.
+
+M.S in Information Technology
+=============================
+
+Students in the Information Technology Graduate Program don't have additional requirements.
 
 Missing Prerequisites
 =====================
 
-If you are missing prerequisites, you can fulfill the requirements by:
+If you are missing prerequisites, you can fulfill the requirements by taking them at Loyola.
 
-* Taking them somewhere else
-  * However, while possibly cheaper and more convenient to your location, there is the possibility that the education you recieve will not be as good or covers what we want from our students
-* Taking them at Loyola:
-   * This can be done before entering the Graduate program as a non-degree undergrad resulting in a cheaper undergraduate tuition.
-   * You can get both prerequisites in one semester with our special compressed sections of :doc:`../courses/comp170` and :doc:`../courses/comp271`. See a fuller discussion below.
+.. note::
 
-.. important::
-
-  The compressed prerequisites can be taken after admission to the graduate program. Then you become a full-time graduate student if you add a third course - a graduate course not requiring the prerequisites resulting in a faster full-time program completion.
+  You are a Graduate Student even if you are just taking the prerequisites.
 
 .. Compressed Prep Courses
 .. -----------------------
@@ -174,4 +178,4 @@ It is impractical and expensive, and we don't think it serves students well. Our
 Non-Degree and Continuing Education Students
 ============================================
 
-Students who wish to continue taking courses may do so after completing their degree as non-degree students. We also encourage our students to maintain connections through our professional and social networking groups. Many of our students continue to be involved in research laboratories such as the Emerging Technologies Laboratory (see http://www.etl.luc.edu).
+Students who wish to continue taking courses may do so after completing their degree as non-degree students. We also encourage our students to maintain connections through our professional and social networking groups. Many of our students continue to be involved in research laboratories at Loyola.
