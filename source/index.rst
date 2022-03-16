@@ -35,8 +35,6 @@ This site is aimed at helping *current* students find detailed information about
 .. Undergraduate Student Resources
 .. -------------------------------
 
-`text <url>`__
-
 .. toctree::
     :maxdepth: 1
     :caption: Undergraduate Resources
