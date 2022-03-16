@@ -35,6 +35,8 @@ This site is aimed at helping *current* students find detailed information about
 .. Undergraduate Student Resources
 .. -------------------------------
 
+`text <url>`__
+
 .. toctree::
     :maxdepth: 1
     :caption: Undergraduate Resources
@@ -68,6 +70,7 @@ This site is aimed at helping *current* students find detailed information about
     graduate/msit
     graduate/madh
     courses/graduate-courses
+    Graduate Certificate Programs <https://www.luc.edu/cs/academics/certificateprograms/graduatecertificateprograms>
     Graduate Handbook <https://graduatehandbook.cs.luc.edu>
 
 Other Helpful Resources for Current Students

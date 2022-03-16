@@ -22,27 +22,9 @@ The following two (2) courses are required by the program:
 
 Either class above can be substituted with another graduate course under the discretion of GPD if students had their equivalent in their undergraduate program.
 
-***************
-Major Electives
-***************
-
-MSCS students must take four (4) courses from their concentration, and four (4) courses of general electives.
-
-General electives include any COMP 400 level course. The elective course options are common for all programs, differing only in the total number of credits required.
-
-.. important::
-
-    Several of these courses require :doc:`../courses/comp413` as a prerequisite.
-
-There are numerous options for independent study, including a programming project, research, or a service-oriented project.
-
-.. note::
-
-  Students may take up to a maximum of 6 credit hours of :doc:`../courses/comp490` and/or :doc:`../courses/comp499`.
-
-
+****************************************
 Cybersecurity Concentration (12 Credits)
-========================================
+****************************************
 
 .. note::
 
@@ -52,7 +34,7 @@ Cybersecurity Concentration (12 Credits)
 
  Topics in Cybersecurity is the specific section of :doc:`../courses/comp488` to be taken.
 
-* :doc:`../courses/comp401`
+* :doc:`../courses/comp401` (Required)
 * :doc:`../courses/comp431`
 * :doc:`../courses/comp440`
 * :doc:`../courses/comp445`
@@ -60,10 +42,11 @@ Cybersecurity Concentration (12 Credits)
 * :doc:`../courses/comp448`
 * :doc:`../courses/comp449`
 * :doc:`../courses/comp452`
-* :doc:`../courses/comp488`
+* :doc:`../courses/comp488` (Cybersecurity related topics)
 
+***********************************
 General Electives (12 credit hours)
------------------------------------
+***********************************
 
 MSCS students must take 12 credits of other electives.
 
@@ -73,5 +56,6 @@ The elective course options are common for all programs, differing only in the t
 
 There are numerous options for independent study, including a programming project, research, or a service-oriented project.
 
-.. important::
-    Students may take up to a maximum of 6 credit hours of COMP 490: Independent Project and/or COMP 499: Internship.
+.. note::
+
+  Students may take up to a maximum of 6 credit hours of :doc:`../courses/comp490` and/or :doc:`../courses/comp499`.

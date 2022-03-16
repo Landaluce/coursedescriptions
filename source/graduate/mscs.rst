@@ -47,7 +47,7 @@ Curriculum
 
 .. warning::
 
-    The Computer Science has more prerequisites than other programs.
+    The Computer Science Program has more prerequisites than other programs.
 
 Overall, to achieve depth and breadth, Computer Science students must complete the following to obtain the required 30 credits to graduate:
 
@@ -58,7 +58,7 @@ Overall, to achieve depth and breadth, Computer Science students must complete t
 Major Prerequisites
 ===================
 
-A four-year undergraduate degree in any field. Computer science, software engineering, computer engineering, or related background recommended.
+A four-year undergraduate degree in any field. Computer science, software engineering, computer engineering, or related background recommended. For students without a programming or related background, see below the preparation courses that you have to take.
 
 .. _prep:
 
@@ -90,7 +90,7 @@ A student may place out of an introductory course under any of the following con
 
 If a student has had a preparatory course waived, departmental assistance will usually be necessary to allow the student to register for any other course having that preparatory course as a prerequisite.
 
-.. list-table:: Title
+.. list-table:: **Summary of Concentrations**
    :header-rows: 1
 
    * - No Concentration
@@ -106,10 +106,10 @@ If a student has had a preparatory course waived, departmental assistance will u
      - COMP 460 (required)
      - COMP 460 (required)
      - COMP 460 (required)
-   * - **Choose four out of the following (3* credit hours each)**
-     - **Choose four out of the following (3* credit hours each)**
-     - **Choose four out of the following (3* credit hours each)**
-     - **Choose four out of the following (3* credit hours each)**
+   * - **Choose four out of the following**
+     - **Choose four out of the following**
+     - **Choose four out of the following**
+     - **Choose four out of the following**
    * - COMP 413 (required)
      - COMP 479 (required)
      - COMP 401 (required)
@@ -127,7 +127,7 @@ If a student has had a preparatory course waived, departmental assistance will u
      - COMP 447
      - COMP 451
    * - COMP 439
-     - COMP 448
+     - COMP 488 (Artificial Intelligence related topics)
      - COMP 448
      - COMP 453
    * - COMP 442
@@ -139,15 +139,15 @@ If a student has had a preparatory course waived, departmental assistance will u
      - COMP 452
      - COMP 464
    * - COMP 453
-     - COMP 458
+     - COMP 429
      - COMP 488 (Cybersecurity related topics)
      - COMP 472
    * - COMP 464
-     - COMP 488 (Artificial Intelligence related topics)
-     - **Students may petition the GPD to substitute COMP 460 with a course from the list above**
-     - **Students may petition the GPD to substitute COMP 460 with a course from the list above**
+     - COMP 448
+     - | **Students may petition the GPD to substitute COMP 460 with a course from the list above**
+     - | **Students may petition the GPD to substitute COMP 460 with a course from the list above**
    * - COMP 471
-     - COMP 429
+     - COMP 458
      -
      -
    * - COMP 473
@@ -155,7 +155,7 @@ If a student has had a preparatory course waived, departmental assistance will u
      -
      -
    * - COMP 474
-     - COMP 448
+     - COMP 488 (Artificial Intelligence related topics)
      -
      -
    * -
