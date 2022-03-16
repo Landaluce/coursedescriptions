@@ -1,4 +1,4 @@
-﻿.. header:: COMP 400A: Introduction to Object-Oriented Programming
+.. header:: COMP 400A: Introduction to Object-Oriented Programming
 .. footer:: COMP 400A: Introduction to Object-Oriented Programming
 
 .. index::
