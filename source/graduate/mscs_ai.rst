@@ -22,8 +22,13 @@ The following two (2) courses are required by the program:
 
 Either class above can be substituted with another graduate course under the discretion of GPD if students had their equivalent in their undergraduate program.
 
+**************************************************
 Artificial Intelligence Concentration (12 Credits)
-==================================================
+**************************************************
+
+.. note::
+
+ Topics in Artificial Intelligence is the specific section of :doc:`../courses/comp488` to be taken.
 
 .. note::
 
@@ -37,18 +42,23 @@ One (1) of the following courses from the three choices below:
 
   Topics in Machine Learning is the specific section of :doc:`../courses/comp488` to be taken.
 
-* :doc:`../courses/comp429`
-* :doc:`../courses/comp487`
-* :doc:`../courses/comp488`
+.. list-table::
+   :header-rows: 1
 
-Two (2) of the following courses from the three (3) choices below and the three (3) choices above must be taken:
+   * - **One (1) of the following courses**
+   * - :doc:`../courses/comp429`
+   * - :doc:`../courses/comp487`
+   * - :doc:`../courses/comp488` (Artificial Intelligence related topics)
+   * - **Five (5) of the following courses**
+   * - :doc:`../courses/comp406`
+   * - :doc:`../courses/comp429`
+   * - :doc:`../courses/comp458`
+   * - :doc:`../courses/comp487`
+   * - :doc:`../courses/comp488` (Artificial Intelligence related topics)
 
-* :doc:`../courses/comp406`
-* :doc:`../courses/comp458`
-* :doc:`../courses/comp488`
-
-General Electives (12 credit hours)
------------------------------------
+******************************
+General Electives (12 Credits)
+******************************
 
 MSCS students must take 12 credits of other electives.
 
@@ -58,5 +68,6 @@ General electives include any COMP 400 level course. The elective course options
 
 There are numerous options for independent study, including a programming project, research, or a service-oriented project.
 
-.. important::
-    Students may take up to a maximum of 6 credit hours of COMP 490: Independent Project and/or COMP 499: Internship.
+.. note::
+
+  Students may take up to a maximum of 6 credit hours of :doc:`../courses/comp490` and/or :doc:`../courses/comp499`.

@@ -3,9 +3,9 @@
     M.S. in Computer Science
     General Electives
 
-###############################################
-M.S. in Computer Science: Default Concentration
-###############################################
+##########################################
+M.S. in Computer Science: No Concentration
+##########################################
 
 ******************************
 Major Requirements (6 Credits)
@@ -26,11 +26,7 @@ Either class above can be substituted with another graduate course under the dis
 Major Electives (12 Credits)
 ****************************
 
-.. note::
-
-  :doc:`../courses/comp413` is a required course for the Default Concentration
-
-* :doc:`../courses/comp413`
+* :doc:`../courses/comp413` (Required)
 * :doc:`../courses/comp410`
 * :doc:`../courses/comp433`
 * :doc:`../courses/comp436`
@@ -51,16 +47,14 @@ Major Electives (12 Credits)
 General Electives (12 Credits)
 ******************************
 
-MSCS students must take four (4) courses from their concentration, and four (4) courses of general electives.
+MSCS students must take 12 credits of other electives.
+
+Electives can be any COMP 400 level class, except the preparation courses (COMP 400A, COMP 400B, COMP 400C, COMP 400D, COMP 400E)
 
 General electives include any COMP 400 level course. The elective course options are common for all programs, differing only in the total number of credits required.
 
-.. important::
-
-  If a student does not puruse a specific concentration, the student must take four (4) courses from list the *Default Concentration* list of electives.
-
-.. important::
-
-    Several of these courses require :doc:`../courses/comp413` as a prerequisite.
-
 There are numerous options for independent study, including a programming project, research, or a service-oriented project.
+
+.. note::
+
+  Students may take up to a maximum of 6 credit hours of :doc:`../courses/comp490` and/or :doc:`../courses/comp499`.
