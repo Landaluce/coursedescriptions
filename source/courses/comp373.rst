@@ -1,4 +1,4 @@
-﻿.. header:: COMP 373: Objects, Frameworks, and Patterns
+.. header:: COMP 373: Objects, Frameworks, and Patterns
 .. footer:: COMP 373: Objects, Frameworks, and Patterns
 
 .. index::

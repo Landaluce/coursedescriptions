@@ -7,9 +7,9 @@
 M.S. in Computer Science: Computer Systems
 ##########################################
 
-******************
-Major Requirements
-******************
+****************************************
+Major Requirements (6 Credits/2 classes)
+****************************************
 
 The following two (2) courses are required by the program:
 
@@ -22,9 +22,9 @@ The following two (2) courses are required by the program:
 
 Either class above can be substituted with another graduate course under the discretion of GPD if students had their equivalent in their undergraduate program.
 
-*******************************************
-Computer Systems Concentration (12 Credits)
-*******************************************
+*****************************************************
+Computer Systems Concentration (12 Credits/4 classes)
+*****************************************************
 
 .. note::
 
@@ -41,9 +41,9 @@ Computer Systems Concentration (12 Credits)
 * :doc:`../courses/comp464`
 * :doc:`../courses/comp472`
 
-***********************************
-General Electives (12 credit hours)
-***********************************
+*********************************************
+General Electives (12 credit hours/4 classes)
+*********************************************
 
 MSCS students must take 12 credits of other electives.
 

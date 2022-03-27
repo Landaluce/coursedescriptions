@@ -7,9 +7,9 @@
 M.S. in Computer Science: Cybersecurity
 #######################################
 
-******************
-Major Requirements
-******************
+****************************************
+Major Requirements (6 Credits/2 classes)
+****************************************
 
 The following two (2) courses are required by the program:
 
