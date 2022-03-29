@@ -7,9 +7,9 @@
 M.S. in Computer Science: Artificial Intelligence
 #################################################
 
-******************
-Major Requirements
-******************
+****************************************
+Major Requirements (6 Credits/2 classes)
+****************************************
 
 The following two (2) courses are required by the program:
 
@@ -22,9 +22,9 @@ The following two (2) courses are required by the program:
 
 Either class above can be substituted with another graduate course under the discretion of GPD if students had their equivalent in their undergraduate program.
 
-**************************************************
-Artificial Intelligence Concentration (12 Credits)
-**************************************************
+************************************************************
+Artificial Intelligence Concentration (12 Credits/4 classes)
+************************************************************
 
 .. note::
 
@@ -49,16 +49,16 @@ One (1) of the following courses from the three choices below:
    * - :doc:`../courses/comp429`
    * - :doc:`../courses/comp487`
    * - :doc:`../courses/comp488` (Artificial Intelligence related topics)
-   * - **Five (5) of the following courses**
+   * - **Two (2) of the following courses**
    * - :doc:`../courses/comp406`
    * - :doc:`../courses/comp429`
    * - :doc:`../courses/comp458`
    * - :doc:`../courses/comp487`
    * - :doc:`../courses/comp488` (Artificial Intelligence related topics)
 
-******************************
-General Electives (12 Credits)
-******************************
+****************************************
+General Electives (12 Credits/4 classes)
+****************************************
 
 MSCS students must take 12 credits of other electives.
 

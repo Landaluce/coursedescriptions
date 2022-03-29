@@ -33,7 +33,7 @@ Curriculum
 * Each program requires a total of 30 credit hours
     * Generally 10 three-credit courses
 * Students can receive up to 6 credit hours (replacing two of our courses) for graduate work taken elsewhere
-    * See the `transfer credit section of the Graduate Student Handbook <https://graduatehandbook.cs.luc.edu/regulations.html#transfer-credit>`_ for details.
+    * See the `transfer credit section of the Graduate Student Handbook <https://graduatehandbook.cs.luc.edu/policy/regulations.html#transfer-credit>`_ for details.
 
 .. important::
 
@@ -47,8 +47,9 @@ Overall, to achieve depth and breadth, Software Engineering students must comple
 * Three (3) courses from restricted categories to ensure a strong software engineering center, while still allowing a considerable the flexibility of interests.
 * Five (5) courses or 15 credits that are general electives.
 
+*******************
 Major Prerequisites
-===================
+*******************
 
 A four-year undergraduate degree in any field. Computer science, software engineering, computer engineering, or related background recommended.
 
@@ -79,8 +80,9 @@ A student may place out of an introductory course under any of the following con
 
 If a student has had a preparatory course waived, departmental assistance will usually be necessary to allow the student to register for any other course having that preparatory course as a prerequisite.
 
-Major Requirements
-==================
+****************************************
+Major Requirements (6 Credits/2 classes)
+****************************************
 
 * :doc:`../courses/comp413`
 * :doc:`../courses/comp417`
@@ -89,8 +91,9 @@ Major Requirements
 
     :doc:`../courses/comp413` is a prerequisite to many other courses.
 
-Restricted Electives
-====================
+*******************************************
+Restricted Electives (12 Credits/4 classes)
+*******************************************
 
 MSSE students must take nine (9) credits of restricted electives.
 
@@ -128,24 +131,20 @@ MSSE students must also take **two additional** courses from *either* **Group 1*
 
 If a student enters the program with an academic record of success in a a course similar to :doc:`../courses/comp413`, or if the student can demonstrate programming experience with the concepts of :doc:`../courses/comp413`, then the GPD may substitute for the :doc:`../courses/comp413` requirement a course in Group 1 or 2 that has :doc:`../courses/comp413` as a prerequisite.
 
-The Computer Science department may declare that other courses (e.g. new courses and individual :doc:`../courses/comp488` offerings) may count as members of either Group 1 or Group 2.
+The department may declare that other newly created permanent courses may count as members of either Group 1 or Group 2. Similarly, some Topics in Computer Science offerings (temporary courses) may also be designated as members of either Group 1 or Group 2. Students are responsible for verifying any such substitutions in advance with their Graduate Program Director.
 
-General Electives
-=================
-
-Electives can be any COMP 400 level class, except the preparation courses (COMP 400A, COMP 400B, COMP 400C, COMP 400D, COMP 400E).
+General Electives (15 Credits/5 classes)
+========================================
 
 MSSE students must take fifteen (15) credits of other electives.
 
-Electives can be any COMP 400 level class.
+Electives can be any COMP 400 level class, except the preparation courses (COMP 400A, COMP 400B, COMP 400C, COMP 400D, COMP 400E).
 
-The elective course options are common for all programs,
-differing only in the total number of credits required.
+General electives include any COMP 400 level course. The elective course options are common for all programs, differing only in the total number of credits required.
 
-There are numerous options for independent study,
-including a programming project, research, or a service-oriented project.
+There are numerous options for independent study, including a programming project, research, or a service-oriented project.
 
 
-.. important::
+.. note::
 
   Students may take up to a maximum of 6 credit hours of :doc:`../courses/comp490` and/or :doc:`../courses/comp499`.

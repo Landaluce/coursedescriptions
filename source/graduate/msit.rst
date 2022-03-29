@@ -105,8 +105,9 @@ A student may place out of an introductory course under any of the following con
 
 If a student has had a preparatory course waived, departmental assistance will usually be necessary to allow the student to register for any other course having that preparatory course as a prerequisite.
 
-Major Requirements (3 credits)
-==============================
+**************************************
+Major Requirements (3 credits/1 class)
+**************************************
 
 * :doc:`../courses/comp417`
 
@@ -115,9 +116,9 @@ Major Requirements (3 credits)
 
   The class above can be substituted with another graduate course under the discretion of GPD if students had their equivalent in their undergraduate program.
 
-******************
-Tracks (9 Credits)
-******************
+****************************
+Tracks (9 Credits/3 classes)
+****************************
 
 As Information Technology is a fast-evolving field, other courses can be substituted under the discretion of the GPD. Substitutions will usually be limited to special-topics courses (Comp 488) which have learning outcomes closely related to other courses in the track in question. The GPD will make this determination by the beginning of the semester, in consultation with the instructor, and will notify the Graduate School.
 
@@ -125,6 +126,8 @@ Some courses (eg 317/417 and 343/443) are offered as both undergraduate and grad
 
 .. important::
   Three (3) courses from any one of the following Tracks must before completing your major.
+
+.. _dm:
 
 Data Management (DM) Track
 ==========================
@@ -135,13 +138,17 @@ Data Management (DM) Track
 * :doc:`../courses/comp453`
 * :doc:`../courses/comp488` Data Visualization Topic
 
+.. _tm:
+
 Technology Management (TM) Track
 ================================
 
-* :doc:`../courses/comp404`
 * :doc:`../courses/comp403`
+* :doc:`../courses/comp404`
 * :doc:`../courses/comp420`
 * :doc:`../courses/comp477`
+
+.. _is:
 
 IT Security (IS) Track
 ======================
@@ -152,6 +159,8 @@ IT Security (IS) Track
 * :doc:`../courses/comp449`
 * :doc:`../courses/comp452`
 
+.. _en:
+
 Enterprise Networking (EN) Track
 ================================
 
@@ -160,7 +169,7 @@ Enterprise Networking (EN) Track
 * :doc:`../courses/comp449`
 * :doc:`../courses/comp451`
 
-General Electives (18 Credits)
+General Electives (18 Credits/6 classes)
 ==============================
 
 Six additional 400-level COMP three-credit electives are required. Students may not substitute any of the introductory or foundation courses listed above as electives (except as stated above). Students may count 400-level courses from other departments as electives with graduate program director approval.

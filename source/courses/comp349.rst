@@ -1,4 +1,4 @@
-﻿.. header:: COMP 349: Wireless Networks and Security
+.. header:: COMP 349: Wireless Networks and Security
 .. footer:: COMP 349: Wireless Networks and Security
 
 .. index::

@@ -7,9 +7,9 @@
 M.S. in Computer Science: No Concentration
 ##########################################
 
-******************************
-Major Requirements (6 Credits)
-******************************
+****************************************
+Major Requirements (6 Credits/2 classes)
+****************************************
 
 The following two (2) courses are required by the program:
 
@@ -22,9 +22,9 @@ The following two (2) courses are required by the program:
 
 Either class above can be substituted with another graduate course under the discretion of GPD if students had their equivalent in their undergraduate program.
 
-****************************
-Major Electives (12 Credits)
-****************************
+**************************************
+Major Electives (12 Credits/4 classes)
+**************************************
 
 * :doc:`../courses/comp413` (Required)
 * :doc:`../courses/comp410`
@@ -39,13 +39,9 @@ Major Electives (12 Credits)
 * :doc:`../courses/comp473`
 * :doc:`../courses/comp474`
 
-.. note::
-
-  Students may take up to a maximum of 6 credit hours of :doc:`../courses/comp490` and/or :doc:`../courses/comp499`.
-
-******************************
-General Electives (12 Credits)
-******************************
+****************************************
+General Electives (12 Credits/4 classes)
+****************************************
 
 MSCS students must take 12 credits of other electives.
 

@@ -27,6 +27,16 @@ The M.S. in Computer Science offers the following concentrations of specializati
     Computer Systems<mscs_systems>
     Thesis Track<mscs_thesis>
 
+****************
+STEM Designation
+****************
+
+With a national shortage of professionals trained in STEM-related fields, employers are actively pursuing STEM degree holders. Distinguish yourself in technology with a STEM-designated degree.
+
+The MS in Computer Science has been granted a STEM designation from the U.S. Department of Homeland Security. The program achieved STEM designation because of its emphasis on teaching students how to solve computer science problems with a suite of quantitative and technological tools.
+
+Under this STEM classification, international students can extend their training in the U.S. by working in their field of study. Students can qualify for a 24-month OPT (Optional Practical Training) Extension, bringing the total OPT time granted to 36 months.
+
 **********
 Curriculum
 **********
@@ -37,7 +47,7 @@ Curriculum
 
 * Students can receive up to 6 credit hours (replacing two of our courses) for graduate work taken elsewhere
 
-  * See the `transfer credit section of the Graduate Student Handbook <https://graduatehandbook.cs.luc.edu/regulations.html#transfer-credit>`_ for details.
+  * See the `transfer credit section of the Graduate Student Handbook <https://graduatehandbook.cs.luc.edu/policy/regulations.html#transfer-credit>`_ for details.
 
 .. important::
 
@@ -51,9 +61,9 @@ Curriculum
 
 Overall, to achieve depth and breadth, Computer Science students must complete the following to obtain the required 30 credits to graduate:
 
-* Two (2) required courses
-* Four (4) electives restricted to a concentration
-* Four (4) general electives
+* Two (2) required courses (6 credit hours)
+* Four (4) electives restricted to a concentration (12 credit hours)
+* Four (4) general electives (12 credit hours)
 
 Major Prerequisites
 ===================
@@ -144,8 +154,10 @@ If a student has had a preparatory course waived, departmental assistance will u
      - COMP 472
    * - COMP 464
      - COMP 448
-     - | **Students may petition the GPD to substitute COMP 460 with a course from the list above**
-     - | **Students may petition the GPD to substitute COMP 460 with a course from the list above**
+     - | **Students may petition the GPD to substitute**
+       | **COMP 460 with a course from the list above**
+     - | **Students may petition the GPD to substitute**
+       | ***COMP 460 with a course from the list above**
    * - COMP 471
      - COMP 458
      -

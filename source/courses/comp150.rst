@@ -1,4 +1,4 @@
-﻿.. header:: COMP 150: Introduction to Computing
+.. header:: COMP 150: Introduction to Computing
 .. footer:: COMP 150: Introduction to Computing
 
 .. index::

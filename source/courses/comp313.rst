@@ -1,4 +1,4 @@
-﻿.. header:: COMP 313: Intermediate Object-Oriented Development
+.. header:: COMP 313: Intermediate Object-Oriented Development
 .. footer:: COMP 313: Intermediate Object-Oriented Development
 
 .. index::

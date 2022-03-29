@@ -1,4 +1,4 @@
-﻿.. header:: COMP 306: Data Mining
+.. header:: COMP 306: Data Mining
 .. footer:: COMP 306: Data Mining
 
 .. index::

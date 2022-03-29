@@ -1,4 +1,4 @@
-﻿.. header:: COMP 170: Introduction to Object-Oriented Programming
+.. header:: COMP 170: Introduction to Object-Oriented Programming
 .. footer:: COMP 170: Introduction to Object-Oriented Programming
 
 .. index::
