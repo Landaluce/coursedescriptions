@@ -22,17 +22,13 @@ The following two (2) courses are required by the program:
 
 Either class above can be substituted with another graduate course under the discretion of GPD if students had their equivalent in their undergraduate program.
 
-****************************************
-Cybersecurity Concentration (12 Credits)
-****************************************
+**************************************************
+Cybersecurity Concentration (12 Credits/4 classes)
+**************************************************
 
 .. note::
 
   :doc:`../courses/comp401` is a required course for the Cybersecurity Concentration
-
-.. note::
-
- Topics in Cybersecurity is the specific section of :doc:`../courses/comp488` to be taken.
 
 * :doc:`../courses/comp401` (Required)
 * :doc:`../courses/comp431`
@@ -44,9 +40,15 @@ Cybersecurity Concentration (12 Credits)
 * :doc:`../courses/comp452`
 * :doc:`../courses/comp488` (Cybersecurity related topics)
 
-***********************************
-General Electives (12 credit hours)
-***********************************
+.. note::
+
+ Topics in Cybersecurity is the specific section of :doc:`../courses/comp488` to be taken.
+
+The department may declare that other newly created permanent courses may count as members of either Group 1 or Group 2. Similarly, some Topics in Computer Science offerings (temporary courses) may also be designated as members of either Group 1 or Group 2. Students are responsible for verifying any such substitutions in advance with their Graduate Program Director.
+
+****************************************
+General Electives (12 credits/4 classes)
+****************************************
 
 MSCS students must take 12 credits of other electives.
 

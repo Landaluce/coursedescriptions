@@ -41,6 +41,8 @@ Computer Systems Concentration (12 Credits/4 classes)
 * :doc:`../courses/comp464`
 * :doc:`../courses/comp472`
 
+The department may declare that other newly created permanent courses may count as members of either Group 1 or Group 2. Similarly, some Topics in Computer Science offerings (temporary courses) may also be designated as members of either Group 1 or Group 2. Students are responsible for verifying any such substitutions in advance with their Graduate Program Director.
+
 *********************************************
 General Electives (12 credit hours/4 classes)
 *********************************************

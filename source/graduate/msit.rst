@@ -63,12 +63,12 @@ Overall, to achieve depth and breadth, Information Technology students must comp
 
 * One (1) required course addressing ethical and social issues in the computing field
 * Three (3) courses within one of the following tracks:
-    * Enterprise Information Management
+    * Data Management
     * Technology Management
-    * Information Assurance
+    * IT Security
     * Enterprise Networking
 * Six (6) courses or 18 credits that do not need to be on any track (electives)
-    * These electives can be any 400-level course offered by the department, with approval by your advisor
+    * These electives can be any 400-level course offered by the department, with approval by your advisor (Except COMP 400a, COMP 400b, COMP 400c, COMP 400d, and COMP 400e)
 
 The courses listed below can be counted toward the different tracks. Any other COMP course (400 level or higher) can count as an elective towards the required 30 credits. Special permission is required to count any other course as a track requirement or as an elective.
 
@@ -169,10 +169,15 @@ Enterprise Networking (EN) Track
 * :doc:`../courses/comp449`
 * :doc:`../courses/comp451`
 
+****************************************
 General Electives (18 Credits/6 classes)
-==============================
+****************************************
 
-Six additional 400-level COMP three-credit electives are required. Students may not substitute any of the introductory or foundation courses listed above as electives (except as stated above). Students may count 400-level courses from other departments as electives with graduate program director approval.
+MSIT students must take 18 credits of other electives.
+
+Electives can be any COMP 400 level class, except the preparation courses (COMP 400A, COMP 400B, COMP 400C, COMP 400D, COMP 400E)
+
+General electives include any COMP 400 level course. The elective course options are common for all programs, differing only in the total number of credits required.
 
 There are numerous options for independent study, including a programming project, research, or a service-oriented project.
 
