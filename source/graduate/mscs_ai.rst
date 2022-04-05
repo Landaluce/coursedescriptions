@@ -34,13 +34,7 @@ Artificial Intelligence Concentration (12 Credits/4 classes)
 
   :doc:`../courses/comp479` is a required course for the Artificial Intelligence Concentration
 
-* :doc:`../courses/comp479`
-
-One (1) of the following courses from the three choices below:
-
-.. note::
-
-  Topics in Machine Learning is the specific section of :doc:`../courses/comp488` to be taken.
+* :doc:`../courses/comp479` (required)
 
 .. list-table::
    :header-rows: 1
@@ -55,6 +49,12 @@ One (1) of the following courses from the three choices below:
    * - :doc:`../courses/comp458`
    * - :doc:`../courses/comp487`
    * - :doc:`../courses/comp488` (Artificial Intelligence related topics)
+
+.. note::
+
+  Topics in Machine Learning is the specific section of :doc:`../courses/comp488` to be taken.
+
+The department may declare that other newly created permanent courses may count as members of either Group 1 or Group 2. Similarly, some Topics in Computer Science offerings (temporary courses) may also be designated as members of either Group 1 or Group 2. Students are responsible for verifying any such substitutions in advance with their Graduate Program Director.
 
 ****************************************
 General Electives (12 Credits/4 classes)

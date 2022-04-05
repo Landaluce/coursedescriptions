@@ -30,7 +30,7 @@ M.S in Computer Science
 
     The Computer Science has more prerequisites than other programs.
 
-Students in the Computer Science Graduate Program need the strongest preparation. Most will have an undergraduate degree or at least the first two years of foundational undergraduate courses.  This would include the addition of equivalents of our :doc:`../courses/comp400c`, :doc:`../courses/comp400e`, and :doc:`../courses/comp400d` to the two courses already listed above. In particular advanced undergraduate algorithm background is required before taking the required spring grad course, :doc:`../courses/comp460`.
+Students in the Computer Science Graduate Program need the strongest preparation. Most will have an undergraduate degree or at least the first two years of foundational undergraduate courses.  This would include the addition of equivalents of our :doc:`../courses/comp400c`, :doc:`../courses/comp400d`, and :doc:`../courses/comp400e` to the two courses already listed above. In particular advanced undergraduate algorithm background is required before taking the required graduate course, :doc:`../courses/comp460`.
 
 M.S in Software Engineering
 ===========================
@@ -40,7 +40,7 @@ Students in the Software Engineering Graduate Program need to add equivalents of
 M.S in Information Technology
 =============================
 
-Students in the Information Technology Graduate Program don't have additional requirements.
+Students in the Information Technology Graduate Program don't have additional prerequisites.
 
 Missing Prerequisites
 =====================

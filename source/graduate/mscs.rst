@@ -117,7 +117,7 @@ If a student has had a preparatory course waived, departmental assistance will u
      - COMP 460 (required)
      - COMP 460 (required)
    * - **Choose four out of the following**
-     - **Choose four out of the following**
+     -
      - **Choose four out of the following**
      - **Choose four out of the following**
    * - COMP 413 (required)
@@ -157,7 +157,7 @@ If a student has had a preparatory course waived, departmental assistance will u
      - | **Students may petition the GPD to substitute**
        | **COMP 460 with a course from the list above**
      - | **Students may petition the GPD to substitute**
-       | ***COMP 460 with a course from the list above**
+       | **COMP 460 with a course from the list above**
    * - COMP 471
      - COMP 458
      -

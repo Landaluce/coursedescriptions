@@ -51,10 +51,10 @@ Overall, to achieve depth and breadth, Software Engineering students must comple
 Major Prerequisites
 *******************
 
-A four-year undergraduate degree in any field. Computer science, software engineering, computer engineering, or related background recommended.
+A four-year undergraduate degree in any field. Computer science, software engineering, computer engineering, or related background recommended. For students without a programming or related background, see below the preparation courses that you have to take.
 
-Preperation Courses
--------------------
+Prerequisites/Preparation Courses
+---------------------------------
 
 All of these courses must be taken if you do not have a four-year undergraduate degree in a related field.
 
@@ -91,9 +91,9 @@ Major Requirements (6 Credits/2 classes)
 
     :doc:`../courses/comp413` is a prerequisite to many other courses.
 
-*******************************************
-Restricted Electives (12 Credits/4 classes)
-*******************************************
+******************************************
+Restricted Electives (9 Credits/3 classes)
+******************************************
 
 MSSE students must take nine (9) credits of restricted electives.
 
@@ -133,8 +133,9 @@ If a student enters the program with an academic record of success in a a course
 
 The department may declare that other newly created permanent courses may count as members of either Group 1 or Group 2. Similarly, some Topics in Computer Science offerings (temporary courses) may also be designated as members of either Group 1 or Group 2. Students are responsible for verifying any such substitutions in advance with their Graduate Program Director.
 
+****************************************
 General Electives (15 Credits/5 classes)
-========================================
+****************************************
 
 MSSE students must take fifteen (15) credits of other electives.
 

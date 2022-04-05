@@ -11,10 +11,10 @@
     Security
     Device Security
     Internet of Things Device Security
-    COMP 445
+    COMP 345
 
 ############################################################
-COMP 345: Internet of Things Device and Application Security
+COMP 445: Internet of Things Device and Application Security
 ############################################################
 
 ******************
@@ -29,7 +29,7 @@ Course Information
 
     **Prerequisites**
 
-    * :doc:`comp301`
+    * :doc:`comp401`
 
 About
 =====
