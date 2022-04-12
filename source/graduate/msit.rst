@@ -59,7 +59,7 @@ Most students complete the program full-time, taking mostly face-to-face courses
 
   Many 400-level courses in the department have closely related 300-level analogues, e.g. :doc:`../courses/comp443` and :doc:`../courses/comp343`. Students who enter the MS program after taking a Loyola course in this category must choose to take 400-level courses that are not closely related to any 300-level courses taken earlier, unless they have GPD permission.
 
-Overall, to achieve depth and breadth, Information Technology students must complete the following:
+Overall, to achieve depth and breadth, Information Technology students must be complete the following:
 
 * One (1) required course addressing ethical and social issues in the computing field
 * Three (3) courses within one of the following tracks:
@@ -68,7 +68,7 @@ Overall, to achieve depth and breadth, Information Technology students must comp
     * IT Security
     * Enterprise Networking
 * Six (6) courses or 18 credits that do not need to be on any track (electives)
-    * These electives can be any 400-level course offered by the department, with approval by your advisor (Except COMP 400a, COMP 400b, COMP 400c, COMP 400d, and COMP 400e)
+    * These electives can be any 400-level course offered by the department, with approval by your advisor (Except COMP 400A, COMP 400B, COMP 400C, COMP 400D, and COMP 400E)
 
 The courses listed below can be counted toward the different tracks. Any other COMP course (400 level or higher) can count as an elective towards the required 30 credits. Special permission is required to count any other course as a track requirement or as an elective.
 
@@ -125,7 +125,7 @@ As Information Technology is a fast-evolving field, other courses can be substit
 Some courses (eg 317/417 and 343/443) are offered as both undergraduate and graduate registrations, meeting together. Students who took the undergraduate instance of such a course as a Loyola undergraduate may not receive graduate credit for retaking the graduate instance of the same course. Exceptions may be granted in advance by the GPD, if the two course instances differ substantially in content. Similarly, if a required graduate course has been taken as an undergraduate registration, the GPD may (and must) allow an appropriate graduate substitute.
 
 .. important::
-  Three (3) courses from any one of the following Tracks must before completing your major.
+  Three (3) courses from any one of the following Tracks must be completed.
 
 .. _dm:
 
