@@ -68,7 +68,7 @@ Overall, to achieve depth and breadth, Computer Science students must complete t
 Major Prerequisites
 ===================
 
-A four-year undergraduate degree in any field. Computer science, software engineering, computer engineering, or related background recommended. For students without a programming or related background, see below the preparation courses that you have to take.
+A four-year undergraduate degree in any field. Computer science, software engineering, computer engineering, or related background highly recommended. For students without a programming or related background, see below the preparation courses that you have to take.
 
 .. _prep:
 
@@ -155,9 +155,9 @@ If a student has had a preparatory course waived, departmental assistance will u
    * - COMP 464
      - COMP 448
      - | **Students may petition the GPD to substitute**
-       | **COMP 460 with a course from the list above**
+       | **COMP 460 with an extra course from the list above**
      - | **Students may petition the GPD to substitute**
-       | **COMP 460 with a course from the list above**
+       | **COMP 460 with an extra course from the list above**
    * - COMP 471
      - COMP 458
      -
