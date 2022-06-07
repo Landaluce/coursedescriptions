@@ -114,15 +114,15 @@ rst_epilog = (
 
 .. |biol388| replace:: `BIOL 388: Bioinformatics <http://luc.edu/biology/bsinbiology/courseofferings/>`__
 
-.. |engl210| replace:: `ENGL 210: Business Writing <http://luc.edu/english/courses.shtml/>`__
+.. |engl210| replace:: `ENGL 210: Business Writing <https://www.luc.edu/english/courses.shtml>`__
 
-.. |isscm241| replace:: `ISSCM 241: Business Statistics <http://www.luc.edu/quinlan/undergraduate/informationsystems/information_systems_courses.shtml>`__
+.. |isscm241| replace:: `ISSCM 241: Business Statistics <https://www.luc.edu/summer/courses/courses/isscm241-businessstatistics.shtml>`__
 
 .. |isscm349| replace:: `ISSCM 349 <http://www.luc.edu/quinlan/undergraduate/informationsystems/information_systems_courses.shtml>`__
 
 .. |psyc101| replace:: `PSYC 101: General Psychology <http://www.luc.edu/psychology/course_offerings.shtml#d.en.76692>`__
 
-.. |psyc304| replace:: `PSYC 304: Statistics <http://www.luc.edu/psychology/course_offerings.shtml#d.en.76692>`__
+.. |psyc304| replace:: `PSYC 304: Statistics <https://www.luc.edu/psychology/undergraduate/psychologycourseofferings/>`__
 
 .. |cjc101| replace:: `CJC 101: Criminal Justice in a Global Context <http://www.luc.edu/criminaljustice/undergradcourses.shtml>`__
 
