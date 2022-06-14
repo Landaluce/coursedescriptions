@@ -8,7 +8,7 @@
 Academic Programs and Courses
 #############################
 
-Welcome to the Academic Programs *informational* site for the Computer Science Department at Loyola University Chicago.
+Welcome to the Academic Programs *informational* site for the `Computer Science Department`_ at `Loyola University Chicago <https://luc.edu>`_.
 
 This site is aimed at helping *current* students find detailed information about the academic programs and courses in the `Computer Science Department`_ at `Loyola University Chicago <https://luc.edu>`_.
 
@@ -79,7 +79,8 @@ Other Helpful Resources for Current Students
 To Report Issues
 ----------------
 
-* https://github.com/LoyolaChicagoCS/WebIssues/issues
+* please contact Dr. Eric Chan-Tin, Graduate Program Director for Computer Science. He can be reached at gpd@cs.luc.edu.
+
 
 Topical Index
 -------------

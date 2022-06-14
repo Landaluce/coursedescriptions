@@ -26,7 +26,7 @@ The stand-alone MS programs each require 30 credits of graduate courses. This ge
 #.   Students may take at most 6 credits total of internship at the undergraduate and graduate level, :doc:`../courses/comp391` plus :doc:`../courses/comp499`.
 #.   A student with credit for a 300 level COMP course that was taught in a combined class with a 400 level course may not take the 400 level course later for separate credit without permission from the Graduate Program Director. In particular for students with credit for :doc:`../courses/comp317`, the MS requirement for :doc:`../courses/comp417` is waived, to be replaced by 3 MS elective credits. Similarly, in programs requiring :doc:`../courses/comp413`, :doc:`../courses/comp313` will satisfy the requirement, but still, the course will need to be replaced by 3 MS elective credits.
 #.   In MS programs with restricted electives lists with two or more courses required from a larger explicit list, one of the courses may be waived if the corresponding 300 level undergraduate course was successfully completed at Loyola. The course must still be replaced by a 3-credit MS program elective.
-#.   All further individual MS program requirements must be met, but with the inclusion of the allowed 400 level courses taken as an undergraduate.
+#.   All further individual MS program requirements must be met with the inclusion of the allowed 400 level courses taken as an undergraduate.
 
 .. _application_requirements:
 

@@ -149,13 +149,13 @@ Applicant Specific Information
 ------------------------------
 
 Applicants should note the Graduate Handbook sections for
-`Prospective students <https://graduatehandbook.cs.luc.edu/prospective_students.html>`_ and `Teaching Assistantships and Financial Aid <https://graduatehandbook.cs.luc.edu/assistantships.html>`_
+`Prospective students <https://graduatehandbook.cs.luc.edu/policy/admissions.html>`_ and `Teaching Assistantships and Financial Aid <https://graduatehandbook.cs.luc.edu/services/assistantships.html>`_
 
 
 Enrolled Student Specific Information
 -------------------------------------
 
-Once you are enrolled, the section for ongoing reference will be `Regulations and Procedures <https://graduatehandbook.cs.luc.edu/regulations.html>`_.
+Once you are enrolled, the section for ongoing reference will be `Regulations and Procedures <https://graduatehandbook.cs.luc.edu/policy/regulations.html>`_.
 
 Time Requirements
 =================

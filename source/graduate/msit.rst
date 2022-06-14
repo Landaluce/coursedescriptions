@@ -30,7 +30,7 @@ The M.S. in Information Systems offers the following tracks of specialization:
 Entirely Online Option
 ======================
 
-The program can now be completed entirely online with some decrease in available electives. Networking and security tracks may be completed online and full-time. The management tracks can be completed online at least part-time over two years. Students taking mostly regular face-to-face courses are also welcomed into online courses when they find that convenient, but students signed up explicitly for the entirely online option get the advantage of being able to be registered before other students who might happen to choose to take some of their courses online. Student in the entire online program should contact the GPD with course choices **three days** before the usual start of registration.
+The program can now be completed entirely online with some decrease in available electives. Networking and security tracks may be completed online and full-time. The management tracks can be completed online at least part-time over two years. Students taking mostly regular face-to-face courses are also welcomed into online courses when they find that convenient, but students signed up explicitly for the entirely online option get the advantage of being able to be registered before other students who might happen to choose to take some of their courses online. Student in the entire online program should contact the `gpd@cs.luc.edu <mailto:gpd@cs.luc.edu>`_ with course choices **three days** before the usual start of registration.
 
 ****************
 STEM Designation
