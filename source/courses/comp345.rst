@@ -1,5 +1,5 @@
-.. header:: COMP 445: Internet of Things Device and Application Security
-.. footer:: COMP 445: Internet of Things Device and Application Security
+.. header:: COMP 345: Internet of Things Device and Application Security
+.. footer:: COMP 345: Internet of Things Device and Application Security
 
 .. index::
     Internet of Things Device and Application Security
@@ -14,7 +14,7 @@
     COMP 345
 
 ############################################################
-COMP 445: Internet of Things Device and Application Security
+COMP 345: Internet of Things Device and Application Security
 ############################################################
 
 ******************

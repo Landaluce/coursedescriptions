@@ -14,6 +14,7 @@ The following graduate programs are offered by the Loyola CS Department. Each pr
 
 * The :doc:`mscs` is more foundational, requiring you to get experience with a broad range of core computer science concepts.  It is our only program with a :ref:`thesis_option`. Students from this program are the ones most likely to go on to a Ph.D. program.
 * The :doc:`msit` is management and business process facing. It is distinguished from a pure business degree by its requirement and frequent use of basic programming and other technical skills. If you end up managing technical workers, you will have an edge over those with pure business degrees. Read to see the general program and the special opportunities for a totally *online* version.
+* The :doc:`msito`
 * The :doc:`msse` is focused on knowledge and abilities to produce high-quality software for many different domains.
 * The :doc:`madh` is a separate interdisciplinary program, partnered with Computer Science.
 
@@ -39,6 +40,11 @@ Students in the Software Engineering Graduate Program need to add equivalents of
 
 M.S in Information Technology
 =============================
+
+Students in the Information Technology Graduate Program don't have additional prerequisites.
+
+M.S in Information Technology (online)
+======================================
 
 Students in the Information Technology Graduate Program don't have additional prerequisites.
 

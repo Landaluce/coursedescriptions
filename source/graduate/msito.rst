@@ -1,10 +1,10 @@
 .. index::
     Graduate Track
-    M.S. in Information Technology
+    M.S. in Information Technology (online)
 
-##############################
-M.S. in Information Technology
-##############################
+#####################################
+M.S. in Information Technology Online
+#####################################
 
 .. note::
 
@@ -18,7 +18,7 @@ The Master of Science in Information Technology is designed for current and aspi
 
 Students in this program will gain a broad technical understanding of current and emerging technologies in the industry, familiarity with systems engineering concepts, and a solid foundation in net-centric computing. They will also have a firm grasp of current and future effects of the convergence of the telecommunications, media, and information technology sectors.
 
-Courses may be taken in person or online.
+Courses may be taken online.
 
 The M.S. in Information Systems offers the following tracks of specialization:
 
@@ -30,7 +30,7 @@ The M.S. in Information Systems offers the following tracks of specialization:
 Entirely Online Option
 ======================
 
-If you are interested in the online MS in Information Technology `click here <https://www.luc.edu/cs/academics/graduateprograms/msit/>`_
+The program can now be completed entirely online with some decrease in available electives. Networking and security tracks may be completed online and full-time. The management tracks can be completed online at least part-time over two years. Students taking mostly regular face-to-face courses are also welcomed into online courses when they find that convenient, but students signed up explicitly for the entirely online option get the advantage of being able to be registered before other students who might happen to choose to take some of their courses online. Student in the entire online program should contact the `gpd@cs.luc.edu <mailto:gpd@cs.luc.edu>`_ with course choices **three days** before the usual start of registration.
 
 ****************
 STEM Designation
