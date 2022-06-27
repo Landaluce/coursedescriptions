@@ -44,6 +44,12 @@ Cybersecurity Concentration (12 Credits/4 classes)
 * :doc:`../courses/comp452`
 * :doc:`../courses/comp488` (Cybersecurity related topics)
 
+.. important::
+
+  Students who have taken undergraduate Loyola classes:
+
+  Many 400-level courses in the department have closely related 300-level analogues, e.g. :doc:`../courses/comp443` and :doc:`../courses/comp343`. Students who enter the MS program after taking a Loyola course in this category must choose to take 400-level courses that are not closely related to any 300-level courses taken earlier, unless they have GPD permission.
+
 .. note::
 
  Topics in Cybersecurity is the specific section of :doc:`../courses/comp488` to be taken.
