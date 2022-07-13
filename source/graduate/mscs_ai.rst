@@ -7,6 +7,8 @@
 M.S. in Computer Science: Artificial Intelligence
 #################################################
 
+For a general overview of the MS in Computer Science, including the curriculum and prerequisite/preparation courses (for those without a computer science degree), please see :doc:`mscs`.
+
 ****************************************
 Major Requirements (6 Credits/2 classes)
 ****************************************
@@ -35,11 +37,11 @@ Artificial Intelligence Concentration (12 Credits/4 classes)
 .. list-table::
    :header-rows: 1
 
-   * - **One (1) of the following courses**
+   * - **One (1) course from the following list**
    * - :doc:`../courses/comp429`
    * - :doc:`../courses/comp487`
    * - :doc:`../courses/comp488` (Artificial Intelligence related topics)
-   * - **Two (2) of the following courses**
+   * - **Two (2) additional courses from the following list**
    * - :doc:`../courses/comp406`
    * - :doc:`../courses/comp429`
    * - :doc:`../courses/comp458`

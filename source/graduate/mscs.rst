@@ -125,7 +125,7 @@ If a student has had a preparatory course waived, departmental assistance will u
      - COMP 401 (required)
      - COMP 410 (required)
    * - COMP 410
-     - **One of the following courses**
+     - **One course from the following list**
      - COMP 431
      - COMP 405
    * - COMP 433
@@ -141,7 +141,7 @@ If a student has had a preparatory course waived, departmental assistance will u
      - COMP 448
      - COMP 453
    * - COMP 442
-     - **Two of the following courses**
+     - **Two additional courses from the following list**
      - COMP 449
      - COMP 462
    * - COMP 443

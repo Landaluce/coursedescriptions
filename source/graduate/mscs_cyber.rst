@@ -7,6 +7,8 @@
 M.S. in Computer Science: Cybersecurity
 #######################################
 
+For a general overview of the MS in Computer Science, including the curriculum and prerequisite/preparation courses (for those without a computer science degree), please see :doc:`mscs`.
+
 ****************************************
 Major Requirements (6 Credits/2 classes)
 ****************************************
