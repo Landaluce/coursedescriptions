@@ -22,21 +22,21 @@ The following two (2) courses are required by the program:
 
     :doc:`../courses/comp460` has the prereq :doc:`../courses/comp363`.
 
+Either class above can be substituted with another graduate course under the discretion of GPD if students had their equivalent in their undergraduate program.
+
 .. important::
 
   Students who have taken undergraduate Loyola classes:
 
   Many 400-level courses in the department have closely related 300-level analogues, e.g. :doc:`../courses/comp443` and :doc:`../courses/comp343`. Students who enter the MS program after taking a Loyola course in this category must choose to take 400-level courses that are not closely related to any 300-level courses taken earlier, unless they have GPD permission.
 
-.. note::
-
-    Students may petition the GPD to substitute COMP 460 with an extra course from the cybersecurity concentration list below.
-
-Either class above can be substituted with another graduate course under the discretion of GPD if students had their equivalent in their undergraduate program.
-
 *****************************************************
 Computer Systems Concentration (12 Credits/4 classes)
 *****************************************************
+
+.. note::
+
+    Students may petition the GPD to substitute COMP 460 with an extra course from the cybersecurity concentration list below.
 
 .. note::
 

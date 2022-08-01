@@ -22,15 +22,15 @@ Courses may be taken in person or online.
 
 The M.S. in Information Systems offers the following tracks of specialization:
 
-* :ref:`Data Management<dm>`
-* :ref:`Technology Management<tm>`
-* :ref:`IT Security<is>`
-* :ref:`Enterprise Networking<en>`
+* `Data Management <http://localhost:63342/coursedescriptions/build/html/graduate/msit.html#data-management-dm-track>`_
+* `Technology Management <http://localhost:63342/coursedescriptions/build/html/graduate/msit.html#technology-management-tm-track>`_
+* `IT Security <http://localhost:63342/coursedescriptions/build/html/graduate/msit.html#it-security-is-track>`_
+* `Enterprise Networking <http://localhost:63342/coursedescriptions/build/html/graduate/msit.html#enterprise-networking-en-track>`_
 
 Entirely Online Option
 ======================
 
-If you are interested in the online MS in Information Technology `click here <https://www.luc.edu/cs/academics/graduateprograms/msit/>`_
+If you are interested in the online MS in Information Technology `click here <https://www.luc.edu/cs/academics/graduateprograms/msito/>`_
 
 ****************
 STEM Designation
