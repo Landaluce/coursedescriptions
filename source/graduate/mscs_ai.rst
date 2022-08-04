@@ -24,6 +24,13 @@ The following two (2) courses are required by the program:
 
 Either class above can be substituted with another graduate course under the discretion of GPD if students had their equivalent in their undergraduate program.
 
+
+.. important::
+
+  Students who have taken undergraduate Loyola classes:
+
+  Many 400-level courses in the department have closely related 300-level analogues, e.g. :doc:`../courses/comp443` and :doc:`../courses/comp343`. Students who enter the MS program after taking a Loyola course in this category must choose to take 400-level courses that are not closely related to any 300-level courses taken earlier, unless they have GPD permission.
+
 ************************************************************
 Artificial Intelligence Concentration (12 Credits/4 classes)
 ************************************************************
@@ -47,12 +54,6 @@ Artificial Intelligence Concentration (12 Credits/4 classes)
    * - :doc:`../courses/comp458`
    * - :doc:`../courses/comp487`
    * - :doc:`../courses/comp488` (Artificial Intelligence related topics)
-
-.. important::
-
-  Students who have taken undergraduate Loyola classes:
-
-  Many 400-level courses in the department have closely related 300-level analogues, e.g. :doc:`../courses/comp443` and :doc:`../courses/comp343`. Students who enter the MS program after taking a Loyola course in this category must choose to take 400-level courses that are not closely related to any 300-level courses taken earlier, unless they have GPD permission.
 
 .. note::
 

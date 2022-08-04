@@ -61,11 +61,11 @@ This site is aimed at helping *current* students find detailed information about
     :maxdepth: 1
     :caption: Graduate Resources
 
-
     graduate/graduate-degree-programs
     graduate/mscs
     graduate/msse
     graduate/msit
+    graduate/msito
     graduate/madh
     courses/graduate-courses
     Graduate Certificate Programs <https://www.luc.edu/cs/academics/certificateprograms/graduatecertificateprograms>
