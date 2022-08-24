@@ -25,8 +25,7 @@ Course Information
 
     **Prerequisites**
 
-    * |math131| or |math161| or :doc:`comp125` or :doc:`comp180` or permission from the instructor.
-    * Recommended - Experience programming in a procedural or object-oriented language.
+    * |MATH118| or Placement or |COMP125| or |COMP141| or |COMP150| or |COMP180| or permission or SCPS student.
 
 About
 =====

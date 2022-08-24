@@ -25,8 +25,8 @@ Course Information
 
     **Prerequisites**
 
-    * :doc:`comp215` or :doc:`comp170`
-    * :doc:`comp141`
+    * |math215| or |COMP215| or |COMP 170| AND |COMP141| OR AMTH-BS OR MATH-BS)
+    * Advisory: MATH/COMP 215 preferred.
 
 About
 =====

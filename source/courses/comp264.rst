@@ -25,12 +25,9 @@ Course Information
     **Prerequisites**
 
     * :doc:`comp141`
-    * :doc:`comp163`
-    * :doc:`comp170` or :doc:`comp215`
-
-    **Co-Requisites**
-
-    * :doc:`comp163`
+    * :doc:`comp170` or :doc:`COMP215` or :doc:`MATH215`
+    * :doc:`COMP163`
+    * :doc:`COMP170`
 
 
 About

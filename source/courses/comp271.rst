@@ -24,7 +24,7 @@ Course Information
     **Prerequisites**
 
     * :doc:`comp141`
-    * :doc:`comp163` or |math201| or declared Bioinfomatics or SCPS student
+    * :doc:`comp163` or |math201| or declared Bioinformatics or SCPS student
     * :doc:`comp170`
     * or :doc:`comp215`
 

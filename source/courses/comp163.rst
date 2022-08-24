@@ -18,7 +18,7 @@ COMP 163: Discrete Structures
 
     **Prerequisites**
 
-    * |math118| or academic placement
+    * |math131| or |math161| or |comp125| or |comp141| or |comp150| or |comp1890| or permission or SCP student.
 
 About
 =====
