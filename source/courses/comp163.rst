@@ -18,7 +18,9 @@ COMP 163: Discrete Structures
 
     **Prerequisites**
 
-    * |math131| or |math161| or |comp125| or |comp141| or |comp150| or |comp1890| or permission or SCP student.
+    * |math117| or placement
+    * |math131| or |math161| or |comp125| or |comp141| or |comp150| or |comp180| or permission or SCP student.
+    Prior experience with a procedural programming language is sufficient to obtain permission to enroll.
 
 About
 =====

@@ -26,8 +26,8 @@ Course Information
 
     * :doc:`comp141`
     * :doc:`comp170` or :doc:`COMP215` or :doc:`MATH215`
-    * :doc:`COMP163`
-    * :doc:`COMP170`
+    * :doc:` coreq or preq of :doc:`COMP163` or :doc:`MATH201`
+    :doc:`COMP 163` and :doc:`COMP170` preferred
 
 
 About
