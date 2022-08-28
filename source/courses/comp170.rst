@@ -25,7 +25,7 @@ Course Information
 
     **Prerequisites**
 
-    * |MATH118| or Placement or |COMP125| or |COMP141| or |COMP150| or |COMP180| or permission or SCPS student.
+    * |MATH118| or Placement or :doc:`comp125` or :doc:`comp141` or :doc:`comp150` or :doc:`comp180` or permission or SCPS student.
 
 About
 =====

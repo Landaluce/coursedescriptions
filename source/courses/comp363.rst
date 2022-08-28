@@ -25,7 +25,7 @@ Course Information
     **Prerequisites**
 
     * :doc:`comp272`
-    * |math131| or |math161|
+    * |math132| or |math162|
 
 About
 =====

@@ -23,7 +23,6 @@ Course Information
 
     **Prerequisites**
 
-    * :doc:`comp150` or :doc:`comp170` or :doc:`comp215`
     * :doc:`comp301`
 
 About
